@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-22 18:38+0000\n"
-"PO-Revision-Date: 2020-03-22 18:41\n"
+"POT-Creation-Date: 2020-03-25 12:23+0000\n"
+"PO-Revision-Date: 2020-03-25 12:26\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Croatian\n"
 "Language: hr_HR\n"
@@ -994,7 +994,7 @@ msgid "Select background color"
 msgstr ""
 
 #: ../src/gui/toolbarMenubar/ColorToolItem.cpp:39
-#: ../src/gui/toolbarMenubar/ColorToolItem.cpp:118
+#: ../src/gui/toolbarMenubar/ColorToolItem.cpp:91
 msgid "Select color"
 msgstr ""
 
