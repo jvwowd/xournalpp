@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-25 12:23+0000\n"
-"PO-Revision-Date: 2020-03-25 12:26\n"
+"POT-Creation-Date: 2020-03-27 10:02+0000\n"
+"PO-Revision-Date: 2020-03-27 10:07\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -115,11 +115,11 @@ msgid "Audio folder not set! Recording won't work!\n"
 msgstr "Δεν έχει ορισθεί φάκελος ήχου! Η έγγραφη δεν θα λειτουργήσει!\n"
 "Παρακαλώ να ορίσετε τον φάκελο στις \"Προτιμήσεις > Εγγραφή ήχου\""
 
-#: ../src/control/Control.cpp:242
+#: ../src/control/Control.cpp:240
 msgid "Autosave failed with an error: {1}"
 msgstr "Η αυτόματη αποθήκευση απέτυχε με σφάλμα: {1}"
 
-#: ../src/control/Control.cpp:208
+#: ../src/control/Control.cpp:206
 msgid "Autosave renamed from {1} to {2}"
 msgstr "Η αυτόματη αποθήκευση μετονομάστηκε από {1} σε {2}"
 
@@ -148,7 +148,7 @@ msgstr "Μαύρο"
 msgid "Blue"
 msgstr "Μπλε"
 
-#: ../src/control/Control.cpp:2007 ../src/control/Control.cpp:2459
+#: ../src/control/Control.cpp:1998 ../src/control/Control.cpp:2450
 #: ../src/control/XournalMain.cpp:118
 msgid "Cancel"
 msgstr "Ακύρωση"
@@ -282,7 +282,7 @@ msgstr ""
 msgid "Could not remove tool item {1} from Toolbar {2} on position {3}"
 msgstr ""
 
-#: ../src/control/Control.cpp:233
+#: ../src/control/Control.cpp:231
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
 msgstr ""
 
@@ -356,11 +356,11 @@ msgstr "Διαγραφή αρχείου"
 msgid "Delete layer"
 msgstr "Διαγραφή στρώματος"
 
-#: ../src/control/Control.cpp:2456
+#: ../src/control/Control.cpp:2447
 msgid "Discard"
 msgstr "Απόρριψη"
 
-#: ../src/control/Control.cpp:1948
+#: ../src/control/Control.cpp:1939
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
@@ -372,7 +372,7 @@ msgstr "Μην ανοίγετε αρχεία αυτόματης αποθήκευ
 msgid "Do not overwrite the background PDF! This will cause errors!"
 msgstr "Μην επανεγγράφετε το PDF του υποβάθρου! Θα προκαλέσει προβλήματα!"
 
-#: ../src/control/Control.cpp:2450
+#: ../src/control/Control.cpp:2441
 msgid "Document file was removed."
 msgstr "Το έγγραφο αφαιρέθηκε."
 
@@ -456,7 +456,7 @@ msgstr ""
 msgid "Eraser"
 msgstr "Σβήστρα"
 
-#: ../src/control/Control.cpp:2197
+#: ../src/control/Control.cpp:2188
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
 msgstr ""
@@ -465,7 +465,7 @@ msgstr ""
 msgid "Error loading glade file \"{1}\" (try to load \"{2}\")"
 msgstr ""
 
-#: ../src/control/Control.cpp:2029
+#: ../src/control/Control.cpp:2020
 msgid "Error opening file \"{1}\""
 msgstr ""
 
@@ -512,7 +512,7 @@ msgid "File couldn't be opened. You have to do it manually:\n"
 "URL: {1}"
 msgstr ""
 
-#: ../src/control/Control.cpp:1973
+#: ../src/control/Control.cpp:1964
 msgid "Filename: {1}"
 msgstr ""
 
@@ -871,7 +871,7 @@ msgstr ""
 msgid "Record Audio / Stop Recording"
 msgstr ""
 
-#: ../src/control/Control.cpp:904
+#: ../src/control/Control.cpp:899
 msgid "Recorder could not be started."
 msgstr ""
 
@@ -889,7 +889,7 @@ msgstr ""
 msgid "Redo: "
 msgstr ""
 
-#: ../src/control/Control.cpp:2006
+#: ../src/control/Control.cpp:1997
 msgid "Remove PDF Background"
 msgstr ""
 
@@ -941,16 +941,16 @@ msgstr ""
 msgid "SVG with transparent background"
 msgstr ""
 
-#: ../src/control/Control.cpp:2451 ../src/control/jobs/SaveJob.cpp:13
+#: ../src/control/Control.cpp:2442 ../src/control/jobs/SaveJob.cpp:13
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:319
 msgid "Save"
 msgstr ""
 
-#: ../src/control/Control.cpp:2451
+#: ../src/control/Control.cpp:2442
 msgid "Save As..."
 msgstr ""
 
-#: ../src/control/Control.cpp:2287 ../src/gui/dialog/PageTemplateDialog.cpp:83
+#: ../src/control/Control.cpp:2278 ../src/gui/dialog/PageTemplateDialog.cpp:83
 msgid "Save File"
 msgstr ""
 
@@ -991,7 +991,7 @@ msgstr ""
 msgid "Select Region"
 msgstr ""
 
-#: ../src/control/Control.cpp:2005
+#: ../src/control/Control.cpp:1996
 msgid "Select another PDF"
 msgstr ""
 
@@ -1106,15 +1106,15 @@ msgstr ""
 msgid "Text not found, searched on all pages"
 msgstr ""
 
-#: ../src/control/Control.cpp:1063
+#: ../src/control/Control.cpp:1058
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
 msgstr ""
 
-#: ../src/control/Control.cpp:2002
+#: ../src/control/Control.cpp:1993
 msgid "The attached background PDF could not be found."
 msgstr ""
 
-#: ../src/control/Control.cpp:2003
+#: ../src/control/Control.cpp:1994
 msgid "The background PDF could not be found."
 msgstr ""
 
@@ -1167,7 +1167,7 @@ msgstr ""
 msgid "Thin"
 msgstr ""
 
-#: ../src/control/Control.cpp:2450
+#: ../src/control/Control.cpp:2441
 msgid "This document is not saved yet."
 msgstr ""
 
@@ -1241,7 +1241,7 @@ msgstr ""
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr ""
 
-#: ../src/control/Control.cpp:2351
+#: ../src/control/Control.cpp:2342
 msgid "Unsaved Document"
 msgstr ""
 
@@ -1298,7 +1298,7 @@ msgstr ""
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr ""
 
-#: ../src/control/Control.cpp:2293 ../src/control/stockdlg/XojOpenDlg.cpp:57
+#: ../src/control/Control.cpp:2284 ../src/control/stockdlg/XojOpenDlg.cpp:57
 msgid "Xournal++ files"
 msgstr ""
 
@@ -1347,7 +1347,7 @@ msgstr ""
 msgid "Zoom to 100%"
 msgstr ""
 
-#: ../src/control/Control.cpp:2287 ../src/control/jobs/BaseExportJob.cpp:17
+#: ../src/control/Control.cpp:2278 ../src/control/jobs/BaseExportJob.cpp:17
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:11
 #: ../src/control/stockdlg/XojOpenDlg.cpp:11
 #: ../src/gui/dialog/PageTemplateDialog.cpp:84
@@ -1359,7 +1359,7 @@ msgstr ""
 msgid "_Open"
 msgstr ""
 
-#: ../src/control/Control.cpp:2288 ../src/control/jobs/BaseExportJob.cpp:17
+#: ../src/control/Control.cpp:2279 ../src/control/jobs/BaseExportJob.cpp:17
 #: ../src/gui/dialog/PageTemplateDialog.cpp:84
 msgid "_Save"
 msgstr ""
