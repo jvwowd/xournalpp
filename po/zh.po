@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-25 12:23+0000\n"
-"PO-Revision-Date: 2020-03-25 12:26\n"
+"POT-Creation-Date: 2020-03-27 10:02+0000\n"
+"PO-Revision-Date: 2020-03-27 10:07\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -115,11 +115,11 @@ msgid "Audio folder not set! Recording won't work!\n"
 msgstr "未设置音频文件夹！录音功能将无法使用！\n"
 "请在“偏好设置 > 音频录制”选项中设置音频文件夹路径。"
 
-#: ../src/control/Control.cpp:242
+#: ../src/control/Control.cpp:240
 msgid "Autosave failed with an error: {1}"
 msgstr "自动保存失败，错误信息为：{1}"
 
-#: ../src/control/Control.cpp:208
+#: ../src/control/Control.cpp:206
 msgid "Autosave renamed from {1} to {2}"
 msgstr "自动保存时已由 {1} 重命名为 {2}"
 
@@ -148,7 +148,7 @@ msgstr "黑色"
 msgid "Blue"
 msgstr "蓝色"
 
-#: ../src/control/Control.cpp:2007 ../src/control/Control.cpp:2459
+#: ../src/control/Control.cpp:1998 ../src/control/Control.cpp:2450
 #: ../src/control/XournalMain.cpp:118
 msgid "Cancel"
 msgstr "取消"
@@ -287,7 +287,7 @@ msgstr "无法从工具栏 {1} 位置 {2} 移除工具项"
 msgid "Could not remove tool item {1} from Toolbar {2} on position {3}"
 msgstr "无法移除工具栏 {2} 位置 {3} 上的工具项 {1}"
 
-#: ../src/control/Control.cpp:233
+#: ../src/control/Control.cpp:231
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
 msgstr "无法将自动保存的文件 \"{1}\" 重新命名为 \"{2}\": {3}"
 
@@ -362,11 +362,11 @@ msgstr "删除文件"
 msgid "Delete layer"
 msgstr "删除层"
 
-#: ../src/control/Control.cpp:2456
+#: ../src/control/Control.cpp:2447
 msgid "Discard"
 msgstr "丢弃"
 
-#: ../src/control/Control.cpp:1948
+#: ../src/control/Control.cpp:1939
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
@@ -378,7 +378,7 @@ msgstr "请勿打开自动保存文件。它们可能会被覆盖！\n"
 msgid "Do not overwrite the background PDF! This will cause errors!"
 msgstr "请勿覆盖背景 PDF！这将造成故障！"
 
-#: ../src/control/Control.cpp:2450
+#: ../src/control/Control.cpp:2441
 msgid "Document file was removed."
 msgstr "文档已删除。"
 
@@ -462,7 +462,7 @@ msgstr "擦除笔划"
 msgid "Eraser"
 msgstr "橡皮"
 
-#: ../src/control/Control.cpp:2197
+#: ../src/control/Control.cpp:2188
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
 msgstr "PDF文件\"{1}\"标注出错\n"
@@ -472,7 +472,7 @@ msgstr "PDF文件\"{1}\"标注出错\n"
 msgid "Error loading glade file \"{1}\" (try to load \"{2}\")"
 msgstr "加载glade文件\"{1}\"出错(尝试加载\"{2}\")"
 
-#: ../src/control/Control.cpp:2029
+#: ../src/control/Control.cpp:2020
 msgid "Error opening file \"{1}\""
 msgstr "打开文件\"{1}\"出错"
 
@@ -521,7 +521,7 @@ msgid "File couldn't be opened. You have to do it manually:\n"
 msgstr "未能打开文件，请手动操作：\n"
 "URL: {1}"
 
-#: ../src/control/Control.cpp:1973
+#: ../src/control/Control.cpp:1964
 msgid "Filename: {1}"
 msgstr "文件名：{1}"
 
@@ -884,7 +884,7 @@ msgstr "演讲模式"
 msgid "Record Audio / Stop Recording"
 msgstr "录制音频/停止录制"
 
-#: ../src/control/Control.cpp:904
+#: ../src/control/Control.cpp:899
 msgid "Recorder could not be started."
 msgstr "无法启动录音器。"
 
@@ -902,7 +902,7 @@ msgstr "重复"
 msgid "Redo: "
 msgstr "重复："
 
-#: ../src/control/Control.cpp:2006
+#: ../src/control/Control.cpp:1997
 msgid "Remove PDF Background"
 msgstr "去掉PDF背景"
 
@@ -954,16 +954,16 @@ msgstr "SVG图形"
 msgid "SVG with transparent background"
 msgstr "具有透明背景的SVG"
 
-#: ../src/control/Control.cpp:2451 ../src/control/jobs/SaveJob.cpp:13
+#: ../src/control/Control.cpp:2442 ../src/control/jobs/SaveJob.cpp:13
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:319
 msgid "Save"
 msgstr "保存"
 
-#: ../src/control/Control.cpp:2451
+#: ../src/control/Control.cpp:2442
 msgid "Save As..."
 msgstr "另存为..."
 
-#: ../src/control/Control.cpp:2287 ../src/gui/dialog/PageTemplateDialog.cpp:83
+#: ../src/control/Control.cpp:2278 ../src/gui/dialog/PageTemplateDialog.cpp:83
 msgid "Save File"
 msgstr "保存文件"
 
@@ -1004,7 +1004,7 @@ msgstr "选择矩形"
 msgid "Select Region"
 msgstr "选择区域"
 
-#: ../src/control/Control.cpp:2005
+#: ../src/control/Control.cpp:1996
 msgid "Select another PDF"
 msgstr "选择其他PDF"
 
@@ -1121,15 +1121,15 @@ msgstr "文本未找到"
 msgid "Text not found, searched on all pages"
 msgstr "找遍所有页面未找到文本"
 
-#: ../src/control/Control.cpp:1063
+#: ../src/control/Control.cpp:1058
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
 msgstr "工具条配置\"{1}\"是预置的，要产生一个拷贝到编辑?"
 
-#: ../src/control/Control.cpp:2002
+#: ../src/control/Control.cpp:1993
 msgid "The attached background PDF could not be found."
 msgstr "附加的背景PDF未找到。"
 
-#: ../src/control/Control.cpp:2003
+#: ../src/control/Control.cpp:1994
 msgid "The background PDF could not be found."
 msgstr "背景PDF未找到。"
 
@@ -1182,7 +1182,7 @@ msgstr "厚度 - 不改变"
 msgid "Thin"
 msgstr "细"
 
-#: ../src/control/Control.cpp:2450
+#: ../src/control/Control.cpp:2441
 msgid "This document is not saved yet."
 msgstr "此文档尚未保存。"
 
@@ -1256,7 +1256,7 @@ msgstr "未知的 pixmap::domain 类型: {1}"
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr "未知笔划类型: \"{1}\"，将假设为笔"
 
-#: ../src/control/Control.cpp:2351
+#: ../src/control/Control.cpp:2342
 msgid "Unsaved Document"
 msgstr "未保存文档"
 
@@ -1313,7 +1313,7 @@ msgstr "Xournal文件"
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr "Xournal++ 上次崩溃了。您想恢复最后一个编辑的文件？"
 
-#: ../src/control/Control.cpp:2293 ../src/control/stockdlg/XojOpenDlg.cpp:57
+#: ../src/control/Control.cpp:2284 ../src/control/stockdlg/XojOpenDlg.cpp:57
 msgid "Xournal++ files"
 msgstr "Xournal++ 文件"
 
@@ -1363,7 +1363,7 @@ msgstr "缩放游标"
 msgid "Zoom to 100%"
 msgstr "原始尺寸"
 
-#: ../src/control/Control.cpp:2287 ../src/control/jobs/BaseExportJob.cpp:17
+#: ../src/control/Control.cpp:2278 ../src/control/jobs/BaseExportJob.cpp:17
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:11
 #: ../src/control/stockdlg/XojOpenDlg.cpp:11
 #: ../src/gui/dialog/PageTemplateDialog.cpp:84
@@ -1375,7 +1375,7 @@ msgstr ""
 msgid "_Open"
 msgstr ""
 
-#: ../src/control/Control.cpp:2288 ../src/control/jobs/BaseExportJob.cpp:17
+#: ../src/control/Control.cpp:2279 ../src/control/jobs/BaseExportJob.cpp:17
 #: ../src/gui/dialog/PageTemplateDialog.cpp:84
 msgid "_Save"
 msgstr ""
