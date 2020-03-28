@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-27 10:02+0000\n"
-"PO-Revision-Date: 2020-03-27 10:07\n"
+"POT-Creation-Date: 2020-03-28 04:05+0000\n"
+"PO-Revision-Date: 2020-03-28 04:06\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -195,7 +195,7 @@ msgstr "拷贝一页"
 msgid "Could not create backup! (The file was created from an older Xournal version)"
 msgstr "未能产生备份文件！(此文件应为老版本Xournal所建)"
 
-#: ../src/util/Util.cpp:103
+#: ../src/util/Util.cpp:104
 msgid "Could not create folder: {1}"
 msgstr "无法创建文件夹：{1}"
 
@@ -501,6 +501,10 @@ msgstr "保存图像 #2 时出错"
 msgid "Error while autosaving: {1}"
 msgstr "自动保存时出错: {1}"
 
+#: ../src/util/Util.cpp:167
+msgid "Error {1} executing system command: {2}"
+msgstr ""
+
 #: ../src/util/CrashHandler.cpp:39
 msgid "Error: {1}"
 msgstr "错误：{1}"
@@ -515,7 +519,7 @@ msgstr "错误日志未能删除，请手工处理。\n"
 msgid "Export PDF"
 msgstr "输出为PDF"
 
-#: ../src/util/Util.cpp:122 ../src/util/Util.cpp:139
+#: ../src/util/Util.cpp:123 ../src/util/Util.cpp:140
 msgid "File couldn't be opened. You have to do it manually:\n"
 "URL: {1}"
 msgstr "未能打开文件，请手动操作：\n"
@@ -1513,7 +1517,7 @@ msgstr "xoj-preview-extractor: 打开导出文件 \"{1}\" 失败"
 msgid "xoj-preview-extractor: successfully extracted"
 msgstr "xoj-preview-extractor: 成功提取"
 
-#: ../src/util/Util.cpp:95
+#: ../src/util/Util.cpp:96
 msgid "xournalpp-{1}"
 msgstr "xournalpp-{1}"
 
