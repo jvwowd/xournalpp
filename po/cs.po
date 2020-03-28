@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-27 10:02+0000\n"
-"PO-Revision-Date: 2020-03-27 10:07\n"
+"POT-Creation-Date: 2020-03-28 04:05+0000\n"
+"PO-Revision-Date: 2020-03-28 04:06\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -195,7 +195,7 @@ msgstr "Kopírovat stránku"
 msgid "Could not create backup! (The file was created from an older Xournal version)"
 msgstr "Nelze vytvořit zálohu! (Soubor byl vytvořen ve starší verzi Xournalu)"
 
-#: ../src/util/Util.cpp:103
+#: ../src/util/Util.cpp:104
 msgid "Could not create folder: {1}"
 msgstr "Nelze vytvořit složku: {1}"
 
@@ -501,6 +501,10 @@ msgstr "Chyba při ukládání obrázku #2"
 msgid "Error while autosaving: {1}"
 msgstr "Chyba při automatickém ukládání: {1}"
 
+#: ../src/util/Util.cpp:167
+msgid "Error {1} executing system command: {2}"
+msgstr ""
+
 #: ../src/util/CrashHandler.cpp:39
 msgid "Error: {1}"
 msgstr "Chyba: {1}"
@@ -515,7 +519,7 @@ msgstr "Nelze smazat chybový protokol. Udělejte to prosím ručně.\n"
 msgid "Export PDF"
 msgstr "Export do PDF"
 
-#: ../src/util/Util.cpp:122 ../src/util/Util.cpp:139
+#: ../src/util/Util.cpp:123 ../src/util/Util.cpp:140
 msgid "File couldn't be opened. You have to do it manually:\n"
 "URL: {1}"
 msgstr "Soubor se nepodařilo otevřít. Udělejte to prosím ručně:\n"
@@ -1515,7 +1519,7 @@ msgstr "xoj-preview-extractor: otevírání výstupního souboru „{1}“ selha
 msgid "xoj-preview-extractor: successfully extracted"
 msgstr "xoj-preview-extractor: úspěšně extrahováno"
 
-#: ../src/util/Util.cpp:95
+#: ../src/util/Util.cpp:96
 msgid "xournalpp-{1}"
 msgstr "xournalpp-{1}"
 
