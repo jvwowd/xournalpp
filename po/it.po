@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-28 04:06\n"
+"PO-Revision-Date: 2020-03-28 15:52\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -19,7 +19,7 @@ msgstr ""
 msgid "\n\n"
 "Will now attempt to run without this file."
 msgstr "\n\n"
-"Adesso cercherà di proseguire senza questo file."
+"Provando a proseguire senza questo file."
 
 #: ../src/control/XournalMain.cpp:488
 msgid "\n"
@@ -503,7 +503,7 @@ msgstr "Errore durante il salvataggio automatico: {1}"
 
 #: ../src/util/Util.cpp:167
 msgid "Error {1} executing system command: {2}"
-msgstr ""
+msgstr "Errore {1} Processando il comando di sistema: {2}"
 
 #: ../src/util/CrashHandler.cpp:39
 msgid "Error: {1}"
@@ -2218,7 +2218,7 @@ msgstr "Pulsanti del Mouse"
 
 #: ../ui/settingsDeviceClassConfig.glade:43
 msgid "Mouse+Keyboard Combo"
-msgstr ""
+msgstr "Tastiera e Mouse Integrati"
 
 #: ../ui/main.glade:2562
 msgid "Move Down"
