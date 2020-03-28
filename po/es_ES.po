@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-28 15:57\n"
+"PO-Revision-Date: 2020-03-28 16:06\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -2209,7 +2209,7 @@ msgstr "Botones del ratón"
 
 #: ../ui/settingsDeviceClassConfig.glade:43
 msgid "Mouse+Keyboard Combo"
-msgstr "Combinación Teclado+Mouse"
+msgstr "Combinación Teclado+Ratón"
 
 #: ../ui/main.glade:2562
 msgid "Move Down"
