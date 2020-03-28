@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-28 15:52\n"
+"PO-Revision-Date: 2020-03-28 15:57\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -25,7 +25,7 @@ msgstr "\n\n"
 msgid "\n"
 "Will now attempt to run without this file."
 msgstr "\n"
-"Adesso cercherà di proseguire senza questo file."
+"Provando a proseguire senza questo file."
 
 #: ../src/gui/MainWindow.cpp:630
 msgctxt "Page {pagenumber} \"of {pagecount}\""
@@ -1432,7 +1432,7 @@ msgstr "tastiera"
 
 #: ../src/undo/AddUndoAction.cpp:100 ../src/undo/DeleteUndoAction.cpp:97
 msgid "latex"
-msgstr "latex"
+msgstr "LaTeX"
 
 #: ../src/util/DeviceListHelper.cpp:90
 msgid "mouse"
