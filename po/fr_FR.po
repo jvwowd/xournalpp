@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-27 10:02+0000\n"
-"PO-Revision-Date: 2020-03-27 10:07\n"
+"POT-Creation-Date: 2020-03-28 04:05+0000\n"
+"PO-Revision-Date: 2020-03-28 04:06\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -195,7 +195,7 @@ msgstr "Copier la page"
 msgid "Could not create backup! (The file was created from an older Xournal version)"
 msgstr "Impossible de créer la sauvegarde ! (Le fichier a été créé à partir d'une ancienne version Xournal)"
 
-#: ../src/util/Util.cpp:103
+#: ../src/util/Util.cpp:104
 msgid "Could not create folder: {1}"
 msgstr "Impossible de créer le dossier : {1}"
 
@@ -501,6 +501,10 @@ msgstr "Erreur d'enregistrement de l'image #2"
 msgid "Error while autosaving: {1}"
 msgstr "Erreur lors de la sauvegarde automatique : {1}"
 
+#: ../src/util/Util.cpp:167
+msgid "Error {1} executing system command: {2}"
+msgstr ""
+
 #: ../src/util/CrashHandler.cpp:39
 msgid "Error: {1}"
 msgstr "Erreur : {1}"
@@ -515,7 +519,7 @@ msgstr "Impossible de supprimer le fichier d'erreurs. Vous devez le faire manuel
 msgid "Export PDF"
 msgstr "Exporter en PDF"
 
-#: ../src/util/Util.cpp:122 ../src/util/Util.cpp:139
+#: ../src/util/Util.cpp:123 ../src/util/Util.cpp:140
 msgid "File couldn't be opened. You have to do it manually:\n"
 "URL: {1}"
 msgstr "Le fichier n'a pas pu être ouvert. Vous devez le faire manuellement :\n"
@@ -1515,7 +1519,7 @@ msgstr "xoj-preview-extractor : l'ouverture du fichier de sortie \"{1}\" a écho
 msgid "xoj-preview-extractor: successfully extracted"
 msgstr "extracteur-xoj-preview : extrait avec succès"
 
-#: ../src/util/Util.cpp:95
+#: ../src/util/Util.cpp:96
 msgid "xournalpp-{1}"
 msgstr "xournalpp-{1}"
 
