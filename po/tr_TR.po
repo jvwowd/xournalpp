@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-30 07:51\n"
+"PO-Revision-Date: 2020-03-30 08:08\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -476,15 +476,15 @@ msgstr ""
 #: ../src/control/xojfile/LoadHandler.cpp:439
 #: ../src/control/xojfile/LoadHandler.cpp:460
 msgid "Error reading PDF: {1}"
-msgstr ""
+msgstr "PDF okunurken hata oluştu: {1}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:506
 msgid "Error reading width of a stroke: {1}"
-msgstr ""
+msgstr "Bir konturun genişliğini okuma hatası: {1}"
 
 #: ../src/control/jobs/ImageExport.cpp:104
 msgid "Error save image #1"
-msgstr ""
+msgstr "Resim #1 kaydedilirken hata oluştu"
 
 #: ../src/control/jobs/ImageExport.cpp:119
 msgid "Error save image #2"
@@ -500,7 +500,7 @@ msgstr ""
 
 #: ../src/util/CrashHandler.cpp:39
 msgid "Error: {1}"
-msgstr ""
+msgstr "Hata: {1}"
 
 #: ../src/control/XournalMain.cpp:137
 msgid "Errorlog cannot be deleted. You have to do it manually.\n"
@@ -509,7 +509,7 @@ msgstr ""
 
 #: ../src/control/jobs/BaseExportJob.cpp:16
 msgid "Export PDF"
-msgstr ""
+msgstr "PDF olarak dışa aktar"
 
 #: ../src/util/Util.cpp:123 ../src/util/Util.cpp:140
 msgid "File couldn't be opened. You have to do it manually:\n"
@@ -635,7 +635,7 @@ msgstr "Sayfa ekle"
 
 #: ../src/control/XournalMain.cpp:272
 msgid "Jump to Page (first Page: 1)"
-msgstr ""
+msgstr "Sayfaya Git (ilk Sayfa: 1)"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:246
 msgid "Layer"
@@ -643,47 +643,47 @@ msgstr "Katman"
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:56
 msgid "Layer Preview"
-msgstr ""
+msgstr "Katman Önizlemesi"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:236
 msgid "Layer selection"
-msgstr ""
+msgstr "Katman seçimi"
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayerEntry.cpp:21
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:182
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:229
 msgid "Layer {1}"
-msgstr ""
+msgstr "Katman {1}"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:12
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:105
 msgid "Light Blue"
-msgstr ""
+msgstr "Açık Mavi"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:13
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:106
 msgid "Light Green"
-msgstr ""
+msgstr "Açık Yeşil"
 
 #: ../src/gui/PageView.cpp:699
 #: ../src/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:76
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:15
 msgid "Loading..."
-msgstr ""
+msgstr "Yükleniyor..."
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:17
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:110
 msgid "Magenta"
-msgstr ""
+msgstr "Eflatun"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:353
 msgid "Manage Toolbars"
-msgstr ""
+msgstr "Araç Çubuklarını Yönet"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:83
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:473
 msgid "Medium"
-msgstr ""
+msgstr "Orta"
 
 #: ../src/control/XournalMain.cpp:485
 msgid "Missing the needed UI file:\n"
