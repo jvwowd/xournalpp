@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-30 06:46\n"
+"PO-Revision-Date: 2020-03-30 07:41\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -18,12 +18,14 @@ msgstr ""
 #: ../src/control/XournalMain.cpp:508
 msgid "\n\n"
 "Will now attempt to run without this file."
-msgstr ""
+msgstr "\n\n"
+"Şimdi bu dosya olmadan çalıştırma denenecek."
 
 #: ../src/control/XournalMain.cpp:488
 msgid "\n"
 "Will now attempt to run without this file."
-msgstr ""
+msgstr "\n"
+"Şimdi bu dosya olmadan çalıştırma denenecek."
 
 #: ../src/gui/MainWindow.cpp:630
 msgctxt "Page {pagenumber} \"of {pagecount}\""
@@ -32,11 +34,11 @@ msgstr ""
 
 #: ../src/control/settings/Settings.cpp:100
 msgid "%F-Note-%H-%M"
-msgstr ""
+msgstr "%F-Note-%H-%M"
 
 #: ../src/gui/dialog/SettingsDialog.cpp:102
 msgid "<b>No devices were found. This seems wrong - maybe file a bug report?</b>"
-msgstr ""
+msgstr "<b>Hiçbir aygıt bulunamadı. Bu yanlış görünüyor - bir hata raporu dosyalansın mı?</b>"
 
 #: ../src/control/XournalMain.cpp:503
 msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
@@ -45,160 +47,167 @@ msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
 "  Not relative\n"
 "  Not in the Working Path\n"
 "  Not in {2}"
-msgstr ""
+msgstr "<span foreground='red' size='x-large'>Gerekli kullanıcı arayüzü dosyası eksik:\n"
+"<b>{1}</b></span>\n"
+"Herhangi bir yerde bulunamadı.\n"
+"  İlgili değil\n"
+"  Çalışma Yolunda Değil\n"
+"  {2} içinde değil"
 
 #: ../src/control/XournalMain.cpp:273
 msgid "Absolute path for the audio files playback"
-msgstr ""
+msgstr "Ses dosyalarının oynatılması için mutlak yol"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:399
 msgid "Add/Edit Tex"
-msgstr ""
+msgstr "Tex Ekle/Düzenle"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:35
 msgid "All files"
-msgstr ""
+msgstr "Tüm dosyalar"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:197
 msgid "Apply to all pages"
-msgstr ""
+msgstr "Tüm sayfalara uygula"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:188
 msgid "Apply to current page"
-msgstr ""
+msgstr "Geçerli sayfaya uygula"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:27
 #: ../src/control/stockdlg/XojOpenDlg.cpp:112
 msgid "Attach file to the journal"
-msgstr ""
+msgstr "Günlüğe dosya ekle"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:104
 msgid "Attribute \"{1}\" could not be parsed as double, the value is \"{2}\""
-msgstr ""
+msgstr "\"{1}\" özeniteliği çift olarak ayrıştırılamadı, değer \"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:97
 msgid "Attribute \"{1}\" could not be parsed as double, the value is nullptr"
-msgstr ""
+msgstr "\"{1}\" özniteliği çift olarak ayrıştırılamadı, değer nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:121
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:140
 msgid "Attribute \"{1}\" could not be parsed as int, the value is \"{2}\""
-msgstr ""
+msgstr "\"{1}\" özniteliği int olarak ayrıştırılamadı, değer \"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:114
 msgid "Attribute \"{1}\" could not be parsed as int, the value is nullptr"
-msgstr ""
+msgstr "\"{1}\" özniteliği int olarak ayrıştırılamadı, değer nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:159
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:179
 msgid "Attribute \"{1}\" could not be parsed as size_t, the value is \"{2}\""
-msgstr ""
+msgstr "\"{1}\" özelliği size_t olarak ayrıştırılamadı, değer \"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:152
 msgid "Attribute \"{1}\" could not be parsed as size_t, the value is nullptr"
-msgstr ""
+msgstr "\"{1}\" özelliği size_t olarak ayrıştırılamadı, değer nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:46
 msgid "Attribute color not set!"
-msgstr ""
+msgstr "Öznitelik rengi ayarlanmadı!"
 
 #: ../src/control/AudioController.cpp:92
 msgid "Audio folder not set! Recording won't work!\n"
 "Please set the recording folder under \"Preferences > Audio recording\""
-msgstr ""
+msgstr "Ses klasörü ayarlanmadı! Kayıt çalışmaz!\n"
+"Lütfen kayıt klasörünü \"Tercihler> Ses kaydı\" altında ayarlayın"
 
 #: ../src/control/Control.cpp:240
 msgid "Autosave failed with an error: {1}"
-msgstr ""
+msgstr "Otomatik kaydetme bir hatayla başarısız oldu: {1}"
 
 #: ../src/control/Control.cpp:206
 msgid "Autosave renamed from {1} to {2}"
-msgstr ""
+msgstr "Otomatik kaydetme, {1} yerine {2} olarak yeniden adlandırıldı"
 
 #: ../src/control/jobs/AutosaveJob.cpp:44
 msgid "Autosaving to {1}"
-msgstr ""
+msgstr "{1} için otomatik kaydediliyor"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:365
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:436
 msgid "Back"
-msgstr ""
+msgstr "Geri"
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayerEntry.cpp:19
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:191
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:231
 msgid "Background"
-msgstr ""
+msgstr "Arka plan"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:10
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:103
 msgid "Black"
-msgstr ""
+msgstr "Siyah"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:14
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:107
 msgid "Blue"
-msgstr ""
+msgstr "Mavi"
 
 #: ../src/control/Control.cpp:1998 ../src/control/Control.cpp:2450
 #: ../src/control/XournalMain.cpp:118
 msgid "Cancel"
-msgstr ""
+msgstr "İptal"
 
 #: ../src/undo/ColorUndoAction.cpp:90
 msgid "Change color"
-msgstr ""
+msgstr "Rengi değiştir"
 
 #: ../src/undo/FontUndoAction.cpp:105
 msgid "Change font"
-msgstr ""
+msgstr "Yazı tipini değiştir"
 
 #: ../src/undo/FillUndoAction.cpp:79
 msgid "Change stroke fill"
-msgstr ""
+msgstr "Kontur dolgusunu değiştir"
 
 #: ../src/undo/SizeUndoAction.cpp:104
 msgid "Change stroke width"
-msgstr ""
+msgstr "Kontur genişliğini değiştir"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:70
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
-msgstr ""
+msgstr "Renk \"{1}\" bilinmiyor (varsayılan renk listesinde tanımlanmamış)!"
 
 #: ../src/gui/sidebar/indextree/SidebarIndexPage.cpp:226
 msgid "Contents"
-msgstr ""
+msgstr "İçindekiler"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:331
 #: ../src/gui/toolbarMenubar/model/ToolbarModel.cpp:75
 #: ../src/gui/toolbarMenubar/model/ToolbarModel.cpp:81
 msgid "Copy"
-msgstr ""
+msgstr "Kopyala"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:28
 msgid "Copy current"
-msgstr ""
+msgstr "Geçerliyi kopyala"
 
 #: ../src/undo/CopyUndoAction.cpp:60
 msgid "Copy page"
-msgstr ""
+msgstr "Sayfayı kopyala"
 
 #: ../src/control/jobs/SaveJob.cpp:99
 msgid "Could not create backup! (The file was created from an older Xournal version)"
-msgstr ""
+msgstr "Yedek oluşturulamadı! (Dosya daha eski bir Xournal sürümünden oluşturulmuş)"
 
 #: ../src/util/Util.cpp:104
 msgid "Could not create folder: {1}"
-msgstr ""
+msgstr "Klasör oluşturulamadı: {1}"
 
 #: ../src/control/LatexController.cpp:85
 msgid "Could not find kpsewhich in PATH; please install kpsewhich and put it on path."
-msgstr ""
+msgstr "YOL içinde kpsewhich bulunamadı; lütfen kpsewhich'i kurun ve yola koyun."
 
 #: ../src/control/LatexController.cpp:70
 msgid "Could not find pdflatex in PATH.\n"
 "Please install pdflatex first and make sure it's in the PATH."
-msgstr ""
+msgstr "YOL içinde pdflatex bulunamadı.\n"
+"Lütfen önce pdflatex'i yükleyin ve YOL'da olduğundan emin olun."
 
 #: ../src/control/LatexController.cpp:89
 msgid "Could not find the LaTeX package 'standalone'.\n"
