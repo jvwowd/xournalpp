@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-30 07:41\n"
+"PO-Revision-Date: 2020-03-30 07:51\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -212,44 +212,45 @@ msgstr "YOL içinde pdflatex bulunamadı.\n"
 #: ../src/control/LatexController.cpp:89
 msgid "Could not find the LaTeX package 'standalone'.\n"
 "Please install standalone (found in texlive-latex-extra) and make sure it's accessible by your LaTeX installation."
-msgstr ""
+msgstr "LaTeX paketi 'standalone' bulunamadı.\n"
+"Lütfen standalone yükleyin (texlive-latex-extra içinde bulunur) ve LaTeX kurulumunuz tarafından erişilebilir olduğundan emin olun."
 
 #: ../src/control/LatexController.cpp:386
 msgid "Could not load LaTeX PDF file"
-msgstr ""
+msgstr "LaTeX PDF dosyası yüklenemedi"
 
 #: ../src/control/LatexController.cpp:371
 msgid "Could not load LaTeX PDF file, File Error: {1}"
-msgstr ""
+msgstr "LaTeX PDF dosyası yüklenemedi, Dosya Hatası: {1}"
 
 #: ../src/control/LatexController.cpp:378
 msgid "Could not load LaTeX PDF file: {1}"
-msgstr ""
+msgstr "LaTeX PDF dosyası yüklenemedi: {1}"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:15
 msgid "Could not load pagetemplates.ini file"
-msgstr ""
+msgstr "pagetemplates.ini dosyası yüklenemedi"
 
 #: ../src/control/xojfile/LoadHandler.cpp:773
 msgid "Could not open attachment: {1}. Error message: Could not read file"
-msgstr ""
+msgstr "Ek açılamadı: {1}. Hata mesajı: Dosya okunamadı"
 
 #: ../src/control/xojfile/LoadHandler.cpp:782
 msgid "Could not open attachment: {1}. Error message: Could not write file"
-msgstr ""
+msgstr "Ek açılamadı: {1}. Hata mesajı: Dosya yazılamadı"
 
 #: ../src/control/xojfile/LoadHandler.cpp:754
 #: ../src/control/xojfile/LoadHandler.cpp:1004
 #: ../src/control/xojfile/LoadHandler.cpp:1023
 msgid "Could not open attachment: {1}. Error message: No valid file size provided"
-msgstr ""
+msgstr "Ek açılamadı: {1}. Hata mesajı: Geçerli bir dosya boyutu sağlanmadı"
 
 #: ../src/control/xojfile/LoadHandler.cpp:745
 #: ../src/control/xojfile/LoadHandler.cpp:761
 #: ../src/control/xojfile/LoadHandler.cpp:996
 #: ../src/control/xojfile/LoadHandler.cpp:1011
 msgid "Could not open attachment: {1}. Error message: {2}"
-msgstr ""
+msgstr "Ek açılamadı: {1}. Hata mesajı: {2}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:154
 msgid "Could not open file: \"{1}\""
@@ -521,11 +522,11 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:458
 msgid "Fill"
-msgstr ""
+msgstr "Doldur"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:472
 msgid "Fine"
-msgstr ""
+msgstr "İyi"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:66
 msgid "Floating Toolbox (experimental)"
@@ -533,49 +534,49 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/FontButton.cpp:54
 msgid "Font"
-msgstr ""
+msgstr "Yazı tipi"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:433
 msgid "Forward"
-msgstr ""
+msgstr "İleri"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:364
 msgid "Go to first page"
-msgstr ""
+msgstr "İlk sayfaya git"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:368
 msgid "Go to last page"
-msgstr ""
+msgstr "Son sayfaya git"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:371
 msgid "Go to next layer"
-msgstr ""
+msgstr "Sonraki katmana git"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:366
 msgid "Go to page"
-msgstr ""
+msgstr "Sayfaya git"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:370
 msgid "Go to previous layer"
-msgstr ""
+msgstr "Önceki katmana git"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:372
 msgid "Go to top layer"
-msgstr ""
+msgstr "Üst katmana git"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:23
 msgid "Graph"
-msgstr ""
+msgstr "Grafik"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:15
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:108
 msgid "Gray"
-msgstr ""
+msgstr "Gri"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:11
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:104
 msgid "Green"
-msgstr ""
+msgstr "Yeşil"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:342
 msgid "Grid Snapping"
@@ -584,21 +585,21 @@ msgstr ""
 #: ../src/gui/dialog/ButtonConfigGui.cpp:65
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:419
 msgid "Hand"
-msgstr ""
+msgstr "El"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:68
 msgid "Hide all"
-msgstr ""
+msgstr "Tümünü gizle"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:59
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:396
 msgid "Highlighter"
-msgstr ""
+msgstr "Vurgulayıcı"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:30
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:400
 msgid "Image"
-msgstr ""
+msgstr "Resim"
 
 #: ../src/control/XournalMain.cpp:224
 msgid "Image file successfully created"
@@ -610,27 +611,27 @@ msgstr ""
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:17
 msgid "Images"
-msgstr ""
+msgstr "Resimler"
 
 #: ../src/undo/InsertUndoAction.cpp:79
 msgid "Insert elements"
-msgstr ""
+msgstr "Element ekle"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:61 ../src/undo/InsertUndoAction.cpp:34
 msgid "Insert image"
-msgstr ""
+msgstr "Resim ekle"
 
 #: ../src/undo/InsertUndoAction.cpp:36
 msgid "Insert latex"
-msgstr ""
+msgstr "Lateks ekle"
 
 #: ../src/undo/InsertLayerUndoAction.cpp:26
 msgid "Insert layer"
-msgstr ""
+msgstr "Katman ekle"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:381
 msgid "Insert page"
-msgstr ""
+msgstr "Sayfa ekle"
 
 #: ../src/control/XournalMain.cpp:272
 msgid "Jump to Page (first Page: 1)"
@@ -638,7 +639,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:246
 msgid "Layer"
-msgstr ""
+msgstr "Katman"
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:56
 msgid "Layer Preview"
