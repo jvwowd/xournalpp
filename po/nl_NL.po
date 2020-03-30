@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-28 04:06\n"
+"PO-Revision-Date: 2020-03-30 18:34\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
@@ -85,7 +85,7 @@ msgstr "Het attribuut '{1}' kan niet dubbel worden verwerkt; de waarde is '{2}'"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:97
 msgid "Attribute \"{1}\" could not be parsed as double, the value is nullptr"
-msgstr ""
+msgstr "Het attribuut '{1}' kan niet als dubbel verwerkt worden; de waarde is nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:121
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:140
@@ -94,7 +94,7 @@ msgstr "Het attribuut '{1}' kan niet worden verwerkt als int; de waarde is '{2}'
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:114
 msgid "Attribute \"{1}\" could not be parsed as int, the value is nullptr"
-msgstr ""
+msgstr "Het attribuut '{1}' kan niet als int worden verwerkt, de waarde is nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:159
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:179
@@ -383,7 +383,7 @@ msgstr "Het documentbestand is verwijderd."
 
 #: ../src/control/xojfile/LoadHandler.cpp:233
 msgid "Document is corrupted (no pages found in file)"
-msgstr ""
+msgstr "Document is beschadigd (geen pagina's gevonden in bestand)"
 
 #: ../src/control/xojfile/LoadHandler.cpp:229
 msgid "Document is not complete (maybe the end is cut off?)"
@@ -534,7 +534,7 @@ msgstr "Opvullen"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:472
 msgid "Fine"
-msgstr ""
+msgstr "Fijn"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:66
 msgid "Floating Toolbox (experimental)"
@@ -546,7 +546,7 @@ msgstr "Lettertype"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:433
 msgid "Forward"
-msgstr ""
+msgstr "Doorsturen"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:364
 msgid "Go to first page"
@@ -1216,7 +1216,7 @@ msgstr "Bezig met opslaan van huidig document voor noodgevallen…"
 
 #: ../src/gui/PageView.cpp:355
 msgid "Unable to play audio recording {1}"
-msgstr ""
+msgstr "Kan audio-opname {1} niet afspelen"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:325
 #: ../src/undo/UndoRedoHandler.cpp:203
@@ -1273,11 +1273,11 @@ msgstr "Verticale ruimte"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:471
 msgid "Very Fine"
-msgstr ""
+msgstr "Zeer fijn"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:476
 msgid "Very Thick"
-msgstr ""
+msgstr "Zeer dik"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:20
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:113
@@ -2066,7 +2066,7 @@ msgstr "Toename"
 
 #: ../ui/about.glade:153
 msgid "Git commit"
-msgstr ""
+msgstr "Git commit"
 
 #: ../ui/settings.glade:2114
 msgid "Global"
@@ -2208,7 +2208,7 @@ msgstr "Muisknoppen"
 
 #: ../ui/settingsDeviceClassConfig.glade:43
 msgid "Mouse+Keyboard Combo"
-msgstr ""
+msgstr "Muis+Toetsenbord Combo"
 
 #: ../ui/main.glade:2562
 msgid "Move Down"
