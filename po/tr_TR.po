@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-31 10:59\n"
+"PO-Revision-Date: 2020-03-31 11:29\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -392,28 +392,28 @@ msgstr "Belge tamamlanmadı (sonu kesilmiş olabilir mi?)"
 
 #: ../src/model/Document.cpp:270 ../src/model/Document.cpp:278
 msgid "Document not loaded! ({1}), {2}"
-msgstr ""
+msgstr "Belge yüklenmedi! ({1}), {2}"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:24
 msgid "Dotted"
-msgstr ""
+msgstr "Noktalı"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:101
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:30
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:406
 msgid "Draw Arrow"
-msgstr ""
+msgstr "Ok Çiz"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:99
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:29
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:405
 msgid "Draw Circle"
-msgstr ""
+msgstr "Daire Çiz"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:95
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:31
 msgid "Draw Line"
-msgstr ""
+msgstr "Çizgi Çiz"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:97
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:24
@@ -422,62 +422,63 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:94
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:404
 msgid "Draw Rectangle"
-msgstr ""
+msgstr "Dikdörtgen Çiz"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:107
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:34
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:410
 msgid "Draw Spline"
-msgstr ""
+msgstr "Oluk Çiz"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:103
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:32
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:408
 msgid "Draw coordinate system"
-msgstr ""
+msgstr "Koordinat sistemi çiz"
 
 #: ../src/undo/InsertUndoAction.cpp:30
 msgid "Draw stroke"
-msgstr ""
+msgstr "Kontur çiz"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:91
 msgid "Drawing Type - don't change"
-msgstr ""
+msgstr "Çizim Türü - değiştirmeyin"
 
 #: ../src/undo/TextBoxUndoAction.cpp:36
 msgid "Edit text"
-msgstr ""
+msgstr "Metni düzenle"
 
 #: ../src/undo/EmergencySaveRestore.cpp:19
 msgid "Emergency saved document"
-msgstr ""
+msgstr "Acil durum kaydedilmiş belge"
 
 #: ../src/undo/AddUndoAction.cpp:75 ../src/undo/DeleteUndoAction.cpp:71
 #: ../src/undo/EraseUndoAction.cpp:90
 msgid "Erase stroke"
-msgstr ""
+msgstr "Kontur sil"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:58
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:247
 msgid "Eraser"
-msgstr ""
+msgstr "Silgi"
 
 #: ../src/control/Control.cpp:2188
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
-msgstr ""
+msgstr "\"{1}\" PDF dosyasına açıklama eklenirken hata oluştu\n"
+"{2}"
 
 #: ../src/gui/GladeGui.cpp:21
 msgid "Error loading glade file \"{1}\" (try to load \"{2}\")"
-msgstr ""
+msgstr "\"{1}\" glade dosyası yüklenirken hata oluştu (\"{2}\" yüklemeyi deneyin)"
 
 #: ../src/control/Control.cpp:2020
 msgid "Error opening file \"{1}\""
-msgstr ""
+msgstr "\"{1}\" dosyası açılırken hata oluştu"
 
 #: ../src/util/OutputStream.cpp:25
 msgid "Error opening file: \"{1}\""
-msgstr ""
+msgstr "Dosya açılırken hata oluştu: \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:439
 #: ../src/control/xojfile/LoadHandler.cpp:460
@@ -524,7 +525,7 @@ msgstr ""
 
 #: ../src/control/Control.cpp:1964
 msgid "Filename: {1}"
-msgstr ""
+msgstr "Dosya adı: {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:458
 msgid "Fill"
@@ -700,11 +701,11 @@ msgstr ""
 
 #: ../src/undo/MoveUndoAction.cpp:17
 msgid "Move"
-msgstr ""
+msgstr "Taşı"
 
 #: ../src/undo/MoveLayerUndoAction.cpp:27
 msgid "Move layer"
-msgstr ""
+msgstr "Katmanı taşı"
 
 #: ../src/undo/SwapUndoAction.cpp:63
 msgid "Move page downwards"
@@ -716,7 +717,7 @@ msgstr ""
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:70
 msgid "New"
-msgstr ""
+msgstr "Yeni"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:317
 msgid "New Xournal"
@@ -724,7 +725,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:367
 msgid "Next"
-msgstr ""
+msgstr "Sonraki"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:375
 msgid "Next annotated page"
@@ -732,12 +733,12 @@ msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:41
 msgid "No device"
-msgstr ""
+msgstr "Aygıt yok"
 
 #: ../src/pdf/base/XojCairoPdfExport.cpp:117
 #: ../src/pdf/base/XojCairoPdfExport.cpp:155
 msgid "No pages to export!"
-msgstr ""
+msgstr "Dışarıya aktarılacak sayfalar bulunamadı!"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:93
 msgid "Normal drawing"
@@ -745,7 +746,7 @@ msgstr ""
 
 #: ../src/plugin/Plugin.cpp:308 ../src/plugin/Plugin.cpp:327
 msgid "OK"
-msgstr ""
+msgstr "Tamam"
 
 #: ../src/control/jobs/BaseExportJob.cpp:86
 msgid "Only local files are supported\n"
@@ -754,7 +755,7 @@ msgstr ""
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:11
 msgid "Open Image"
-msgstr ""
+msgstr "Resim Aç"
 
 #: ../src/control/XournalMain.cpp:115
 msgid "Open Logfile"
@@ -767,21 +768,21 @@ msgstr ""
 #: ../src/control/stockdlg/XojOpenDlg.cpp:11
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:318
 msgid "Open file"
-msgstr ""
+msgstr "Dosya aç"
 
 #: ../src/control/RecentManager.cpp:181
 msgctxt "{1} is a URI"
 msgid "Open {1}"
-msgstr ""
+msgstr "{1} Aç"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:18
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:111
 msgid "Orange"
-msgstr ""
+msgstr "Turuncu"
 
 #: ../src/control/jobs/PdfExportJob.cpp:9
 msgid "PDF Export"
-msgstr ""
+msgstr "Pdf Olarak Dışa Aktar"
 
 #: ../src/gui/MainWindow.cpp:628
 msgid "PDF Page {1}"
@@ -799,7 +800,7 @@ msgstr ""
 #: ../src/control/jobs/PdfExportJob.cpp:13
 #: ../src/control/stockdlg/XojOpenDlg.cpp:42
 msgid "PDF files"
-msgstr ""
+msgstr "PDF dosyaları"
 
 #: ../src/control/XournalMain.cpp:270
 msgid "PDF output filename"
@@ -819,19 +820,19 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:42
 msgid "Page"
-msgstr ""
+msgstr "Sayfa"
 
 #: ../src/gui/sidebar/previews/page/SidebarPreviewPages.cpp:61
 msgid "Page Preview"
-msgstr ""
+msgstr "Sayfa Önizleme"
 
 #: ../src/undo/PageBackgroundChangedUndoAction.cpp:81
 msgid "Page background changed"
-msgstr ""
+msgstr "Sayfa arka planı değişti"
 
 #: ../src/undo/InsertDeletePageUndoAction.cpp:98
 msgid "Page deleted"
-msgstr ""
+msgstr "Sayfa silindi"
 
 #: ../src/undo/InsertDeletePageUndoAction.cpp:94
 msgid "Page inserted"
@@ -839,7 +840,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:31
 msgid "Page number"
-msgstr ""
+msgstr "Sayfa numarası"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:348
 msgid "Paired pages"
@@ -848,64 +849,64 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:332
 #: ../src/undo/AddUndoAction.cpp:77
 msgid "Paste"
-msgstr ""
+msgstr "Yapıştır"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:427
 msgid "Pause / Play"
-msgstr ""
+msgstr "Duraklat / Oynat"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:57
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:228
 msgid "Pen"
-msgstr ""
+msgstr "Tükenmez Kalem"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:19
 msgid "Plain"
-msgstr ""
+msgstr "Düz"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:418
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:20
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:71
 msgid "Play Object"
-msgstr ""
+msgstr "Nesne Oynat"
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:17
 msgid "Predefined"
-msgstr ""
+msgstr "Önceden tanımlanmış"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:350
 msgid "Presentation mode"
-msgstr ""
+msgstr "Sunum modu"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:425
 msgid "Record Audio / Stop Recording"
-msgstr ""
+msgstr "Ses Kaydet / Kaydı Durdur"
 
 #: ../src/control/Control.cpp:899
 msgid "Recorder could not be started."
-msgstr ""
+msgstr "Kaydedici başlatılamadı."
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:16
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:109
 msgid "Red"
-msgstr ""
+msgstr "Kırmızı"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:326
 #: ../src/undo/UndoRedoHandler.cpp:215
 msgid "Redo"
-msgstr ""
+msgstr "Yinele"
 
 #: ../src/undo/UndoRedoHandler.cpp:210
 msgid "Redo: "
-msgstr ""
+msgstr "Yinele: "
 
 #: ../src/control/Control.cpp:1997
 msgid "Remove PDF Background"
-msgstr ""
+msgstr "PDF Arka Planını Kaldır"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:160
 msgid "Removed tool item from Toolbar {1} ID {2}"
-msgstr ""
+msgstr "Araç öğesi {1} ID {2} Araç Çubuğundan kaldırıldı"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:158
 msgid "Removed tool item {1} from Toolbar {2} ID {3}"
@@ -1016,7 +1017,7 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ColorToolItem.cpp:39
 #: ../src/gui/toolbarMenubar/ColorToolItem.cpp:91
 msgid "Select color"
-msgstr ""
+msgstr "Renk seç"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:64
 msgid "Select rectangle"
@@ -1024,7 +1025,7 @@ msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:63
 msgid "Select region"
-msgstr ""
+msgstr "Bölge seç"
 
 #: ../src/control/XournalMain.cpp:114
 msgid "Send Bugreport"
@@ -1032,7 +1033,7 @@ msgstr ""
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:50
 msgid "Separator"
-msgstr ""
+msgstr "Ayırıcı"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:403
 msgid "Shape Recognizer"
@@ -1040,7 +1041,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:63
 msgid "Show all"
-msgstr ""
+msgstr "Tümünü göster"
 
 #: ../src/gui/dialog/backgroundSelect/PdfPagesDialog.cpp:88
 msgid "Show only not used pages (one unused page)"
@@ -1062,17 +1063,17 @@ msgstr ""
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:22
 msgid "Staves"
-msgstr ""
+msgstr "Porteler"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:430
 msgid "Stop"
-msgstr ""
+msgstr "Durdur"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:105
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:35
 #: ../src/undo/RecognizerUndoAction.cpp:72
 msgid "Stroke recognizer"
-msgstr ""
+msgstr "Kontur tanıyıcı"
 
 #: ../src/util/CrashHandler.cpp:41
 msgid "Successfully saved document to \"{1}\""
@@ -1080,12 +1081,12 @@ msgstr ""
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:93
 msgid "Supported files"
-msgstr ""
+msgstr "Desteklenen dosyalar"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:60
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:398
 msgid "Text"
-msgstr ""
+msgstr "Metin"
 
 #: ../src/gui/SearchBar.cpp:67
 #, c-format
@@ -1110,7 +1111,7 @@ msgstr ""
 
 #: ../src/gui/SearchBar.cpp:72
 msgid "Text not found"
-msgstr ""
+msgstr "Metin bulunumadı"
 
 #: ../src/gui/SearchBar.cpp:134 ../src/gui/SearchBar.cpp:178
 msgid "Text not found, searched on all pages"
@@ -1200,7 +1201,7 @@ msgstr ""
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:45
 msgid "Toolbars"
-msgstr ""
+msgstr "Araç çubukları"
 
 #: ../src/util/CrashHandler.cpp:30
 msgid "Trying to emergency save the current open document…"
@@ -1213,7 +1214,7 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:325
 #: ../src/undo/UndoRedoHandler.cpp:203
 msgid "Undo"
-msgstr ""
+msgstr "Geri al"
 
 #: ../src/undo/UndoRedoHandler.cpp:198
 msgid "Undo: "
@@ -1265,16 +1266,16 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:471
 msgid "Very Fine"
-msgstr ""
+msgstr "Çok İyi"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:476
 msgid "Very Thick"
-msgstr ""
+msgstr "Çok Kalın"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:20
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:113
 msgid "White"
-msgstr ""
+msgstr "Beyaz"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:29
 msgid "With PDF background"
@@ -1282,7 +1283,7 @@ msgstr ""
 
 #: ../src/undo/InsertUndoAction.cpp:32
 msgid "Write text"
-msgstr ""
+msgstr "Metin yaz"
 
 #: ../src/control/xojfile/LoadHandler.cpp:896
 msgid "Wrong count of points ({1})"
@@ -1320,7 +1321,7 @@ msgstr ""
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:19
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:112
 msgid "Yellow"
-msgstr ""
+msgstr "Sarı"
 
 #: ../src/control/PageBackgroundChangeController.cpp:185
 msgid "You don't have any PDF pages to select from. Cancel operation.\n"
@@ -1339,19 +1340,19 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:358
 msgid "Zoom fit to screen"
-msgstr ""
+msgstr "Ekrana sığdır"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:357
 msgid "Zoom in"
-msgstr ""
+msgstr "Yakınlaştır"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:356
 msgid "Zoom out"
-msgstr ""
+msgstr "Uzaklaştır"
 
 #: ../src/gui/toolbarMenubar/ToolZoomSlider.cpp:72
 msgid "Zoom slider"
-msgstr ""
+msgstr "Yakınlaştırma kaydırıcısı"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:359
 msgid "Zoom to 100%"
