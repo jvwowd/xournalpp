@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-31 10:26\n"
+"PO-Revision-Date: 2020-03-31 10:59\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -388,7 +388,7 @@ msgstr "Belge bozuk (dosyada sayfa bulunamadı)"
 
 #: ../src/control/xojfile/LoadHandler.cpp:229
 msgid "Document is not complete (maybe the end is cut off?)"
-msgstr ""
+msgstr "Belge tamamlanmadı (sonu kesilmiş olabilir mi?)"
 
 #: ../src/model/Document.cpp:270 ../src/model/Document.cpp:278
 msgid "Document not loaded! ({1}), {2}"
