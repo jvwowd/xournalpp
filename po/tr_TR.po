@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-31 11:29\n"
+"PO-Revision-Date: 2020-03-31 11:41\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1356,28 +1356,28 @@ msgstr "Yakınlaştırma kaydırıcısı"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:359
 msgid "Zoom to 100%"
-msgstr ""
+msgstr "100% Yakınlaştır"
 
 #: ../src/control/Control.cpp:2278 ../src/control/jobs/BaseExportJob.cpp:17
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:11
 #: ../src/control/stockdlg/XojOpenDlg.cpp:11
 #: ../src/gui/dialog/PageTemplateDialog.cpp:84
 msgid "_Cancel"
-msgstr ""
+msgstr "İ_ptal et"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:12
 #: ../src/control/stockdlg/XojOpenDlg.cpp:12
 msgid "_Open"
-msgstr ""
+msgstr "_Aç"
 
 #: ../src/control/Control.cpp:2279 ../src/control/jobs/BaseExportJob.cpp:17
 #: ../src/gui/dialog/PageTemplateDialog.cpp:84
 msgid "_Save"
-msgstr ""
+msgstr "_Kaydet"
 
 #: ../src/util/DeviceListHelper.cpp:96
 msgid "cursor"
-msgstr ""
+msgstr "imleç"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:236
 msgid "dash-/ dotted"
@@ -1389,43 +1389,43 @@ msgstr ""
 
 #: ../src/gui/dialog/PluginDialogEntry.cpp:28
 msgid "default disabled"
-msgstr ""
+msgstr "varsayılan olarak devre dışı"
 
 #: ../src/gui/dialog/PluginDialogEntry.cpp:28
 msgid "default enabled"
-msgstr ""
+msgstr "varsayılan olarak etkin"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:251
 msgid "delete stroke"
-msgstr ""
+msgstr "konturu sil"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:239
 msgid "dotted"
-msgstr ""
+msgstr "noktalı"
 
 #: ../src/undo/AddUndoAction.cpp:86 ../src/undo/DeleteUndoAction.cpp:83
 msgid "elements"
-msgstr ""
+msgstr "öğeler"
 
 #: ../src/util/DeviceListHelper.cpp:94
 msgid "eraser"
-msgstr ""
+msgstr "silgi"
 
 #: ../src/undo/AddUndoAction.cpp:97 ../src/undo/DeleteUndoAction.cpp:94
 msgid "image"
-msgstr ""
+msgstr "resim"
 
 #: ../src/util/DeviceListHelper.cpp:99
 msgid "keyboard"
-msgstr ""
+msgstr "klavye"
 
 #: ../src/undo/AddUndoAction.cpp:100 ../src/undo/DeleteUndoAction.cpp:97
 msgid "latex"
-msgstr ""
+msgstr "latex"
 
 #: ../src/util/DeviceListHelper.cpp:90
 msgid "mouse"
-msgstr ""
+msgstr "fare"
 
 #: ../src/control/LatexController.cpp:264
 msgid "pdflatex encountered an error: {1} (exit code: {2})"
@@ -1433,44 +1433,44 @@ msgstr ""
 
 #: ../src/util/DeviceListHelper.cpp:92
 msgid "pen"
-msgstr ""
+msgstr "tükenmez kalem"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:153
 msgid "show"
-msgstr ""
+msgstr "göster"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:230
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:249
 msgid "standard"
-msgstr ""
+msgstr "standart"
 
 #: ../src/undo/AddUndoAction.cpp:94 ../src/undo/DeleteUndoAction.cpp:91
 msgid "stroke"
-msgstr ""
+msgstr "vuruş"
 
 #: ../src/util/DeviceListHelper.cpp:108
 msgid "tablet pad"
-msgstr ""
+msgstr "tablet ped"
 
 #: ../src/undo/AddUndoAction.cpp:103 ../src/undo/DeleteUndoAction.cpp:100
 msgid "text"
-msgstr ""
+msgstr "metin"
 
 #: ../src/util/DeviceListHelper.cpp:103
 msgid "touchpad"
-msgstr ""
+msgstr "dokunmatik fare"
 
 #: ../src/util/DeviceListHelper.cpp:101
 msgid "touchscreen"
-msgstr ""
+msgstr "dokunmatik ekran"
 
 #: ../src/util/DeviceListHelper.cpp:106
 msgid "trackpoint"
-msgstr ""
+msgstr "parça noktası"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:250
 msgid "whiteout"
-msgstr ""
+msgstr "olmadan"
 
 #: ../src/control/xojfile/LoadHandler.cpp:905
 msgid "xoj-File: {1}"
@@ -1727,7 +1727,7 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:142
 msgid "All pages"
-msgstr ""
+msgstr "Tüm sayfalar"
 
 #: ../ui/settings.glade:3396
 msgid "All three conditions must be met before stroke is ignored.\n"
@@ -1736,23 +1736,23 @@ msgstr ""
 
 #: ../ui/settings.glade:3830
 msgid "Audio Devices"
-msgstr ""
+msgstr "Ses Aygıtları"
 
 #: ../ui/settings.glade:4035
 msgid "Audio Recording"
-msgstr ""
+msgstr "Ses Kaydediliyor"
 
 #: ../ui/pluginEntry.glade:57
 msgid "Author: "
-msgstr ""
+msgstr "Yazar: "
 
 #: ../ui/about.glade:186
 msgid "Authors:"
-msgstr ""
+msgstr "Yazarlar:"
 
 #: ../ui/settings.glade:1522
 msgid "Autodetect"
-msgstr ""
+msgstr "Otomatik algılama"
 
 #: ../ui/settings.glade:566
 msgid "Autoloading Journals"
@@ -1760,11 +1760,11 @@ msgstr ""
 
 #: ../ui/settings.glade:323
 msgid "Autosaving"
-msgstr ""
+msgstr "Otomatik kayıt"
 
 #: ../ui/settings.glade:472
 msgid "Available Placeholders"
-msgstr ""
+msgstr "Kullanılabilir Yer Tutucuları"
 
 #: ../ui/settings.glade:2026
 msgid "Background color between pages"
@@ -1776,7 +1776,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2015
 msgid "Border color"
-msgstr ""
+msgstr "Kenarlık rengi"
 
 #: ../ui/settings.glade:2000
 msgid "Border color for current page and other selections"
@@ -1788,19 +1788,19 @@ msgstr ""
 
 #: ../ui/settings.glade:1208
 msgid "Button 1"
-msgstr ""
+msgstr "Düğme 1"
 
 #: ../ui/settings.glade:1246
 msgid "Button 2"
-msgstr ""
+msgstr "Düğme 2"
 
 #: ../ui/settings.glade:2096
 msgid "Colors"
-msgstr ""
+msgstr "Renkler"
 
 #: ../ui/main.glade:1134
 msgid "Configure Page Template"
-msgstr ""
+msgstr "Sayfa Şablonlarını Yapılandır"
 
 #: ../ui/pageTemplate.glade:185
 msgid "Copy last page settings"
@@ -1812,11 +1812,11 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:158
 msgid "Current page"
-msgstr ""
+msgstr "Geçerli sayfa"
 
 #: ../ui/settings.glade:2182
 msgid "Cursor"
-msgstr ""
+msgstr "İmleç"
 
 #: ../ui/settings.glade:1699
 msgid "Custom Commands (for Method \"Custom\")"
@@ -1836,7 +1836,7 @@ msgstr ""
 
 #: ../ui/settings.glade:386
 msgid "Default name: "
-msgstr ""
+msgstr "Varsayılan ad: "
 
 #: ../ui/settings.glade:3608
 msgid "Defaults"
