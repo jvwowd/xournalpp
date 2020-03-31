@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-31 11:47\n"
+"PO-Revision-Date: 2020-03-31 11:57\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -2222,15 +2222,15 @@ msgstr "Kağıt Biçimi"
 
 #: ../ui/main.glade:1199
 msgid "Paper _Color"
-msgstr ""
+msgstr "Kağıt _Rengi"
 
 #: ../ui/main.glade:1189
 msgid "Paper _Format"
-msgstr ""
+msgstr "Kağıt _Biçimi"
 
 #: ../ui/main.glade:1209
 msgid "Paper b_ackground"
-msgstr ""
+msgstr "Kağıt Ark_a planı"
 
 #: ../ui/about.glade:247
 msgid "Partially based on Xournal\n"
@@ -2239,7 +2239,7 @@ msgstr ""
 
 #: ../ui/main.glade:1842
 msgid "Pause"
-msgstr ""
+msgstr "Duraklat"
 
 #: ../ui/main.glade:1469
 msgid "Pen _Options"
@@ -2247,15 +2247,15 @@ msgstr ""
 
 #: ../ui/settings.glade:3988
 msgid "Playback Settings"
-msgstr ""
+msgstr "Oynatma Ayarları"
 
 #: ../ui/plugin.glade:14
 msgid "Plugin Manager"
-msgstr ""
+msgstr "Eklenti Yöneticisi"
 
 #: ../ui/main.glade:1907
 msgid "Plugin _Manager"
-msgstr ""
+msgstr "Eklenti Yö_neticisi"
 
 #: ../ui/plugin.glade:121
 msgid "Plugin changes are only applied after Xournal++ was restarted"
@@ -2263,43 +2263,43 @@ msgstr ""
 
 #: ../ui/main.glade:440
 msgid "Preferences"
-msgstr ""
+msgstr "Tercihler"
 
 #: ../ui/settings.glade:2496
 msgid "Presentation Mode"
-msgstr ""
+msgstr "Sunum Modu"
 
 #: ../ui/settings.glade:1136
 msgid "Pressure Sensitivity"
-msgstr ""
+msgstr "Basınç hassasiyeti"
 
 #: ../ui/about.glade:167
 msgid "RELEASE_IDENTIFIER"
-msgstr ""
+msgstr "BÜLTEN_TANIMLAMA"
 
 #: ../ui/exportSettings.glade:127
 msgid "Range"
-msgstr ""
+msgstr "Aralık"
 
 #: ../ui/main.glade:190
 msgid "Recent _Documents"
-msgstr ""
+msgstr "Son Çalışılan _Belgeler"
 
 #: ../ui/main.glade:1832
 msgid "Record / Stop"
-msgstr ""
+msgstr "Kayıt / Dur"
 
 #: ../ui/settings.glade:3923
 msgid "Recording Quality"
-msgstr ""
+msgstr "Kayıt Kalitesi"
 
 #: ../ui/exportSettings.glade:112
 msgid "Resolution"
-msgstr ""
+msgstr "Çözünürlük"
 
 #: ../ui/settings.glade:999
 msgid "Right Mouse Button"
-msgstr ""
+msgstr "Sağ Fare Düğmesi"
 
 #: ../ui/settings.glade:3091
 msgid "Rotation snapping tolerance"
@@ -2307,11 +2307,11 @@ msgstr ""
 
 #: ../ui/settings.glade:3862
 msgid "Sample Rate"
-msgstr ""
+msgstr "Örnek Oranı"
 
 #: ../ui/settings.glade:2328
 msgid "Scrollbars"
-msgstr ""
+msgstr "Kaydırma çubukları"
 
 #: ../ui/settings.glade:2993
 msgid "Scrolling outside the page"
@@ -2323,19 +2323,19 @@ msgstr ""
 
 #: ../ui/settings.glade:3696
 msgid "Select Folder"
-msgstr ""
+msgstr "Klasör Seç"
 
 #: ../ui/images.glade:8
 msgid "Select Image"
-msgstr ""
+msgstr "Resim Seç"
 
 #: ../ui/pdfpages.glade:8
 msgid "Select PDF Page"
-msgstr ""
+msgstr "PDF Sayfası Seç"
 
 #: ../ui/settings.glade:2461
 msgid "Select toolbar:"
-msgstr ""
+msgstr "Araç çubuğu seç:"
 
 #: ../ui/settings.glade:2051
 msgid "Selection Color (Text, Stroke Selection etc.)"
@@ -2351,7 +2351,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3398
 msgid "Settings:"
-msgstr ""
+msgstr "Ayarlar:"
 
 #: ../ui/settings.glade:3407
 msgid "Show Floating Toolbox"
@@ -2363,7 +2363,7 @@ msgstr ""
 
 #: ../ui/main.glade:496
 msgid "Show sidebar"
-msgstr ""
+msgstr "Kenar çubuğu göster"
 
 #: ../ui/settings.glade:2211
 msgid "Show sidebar on the right side"
@@ -2375,7 +2375,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3150
 msgid "Snapping"
-msgstr ""
+msgstr "Yakalama"
 
 #: ../ui/settings.glade:2579
 msgid "Speed for Ctrl + Scroll"
@@ -2387,11 +2387,11 @@ msgstr ""
 
 #: ../ui/settingsButtonConfig.glade:130
 msgid "Standard"
-msgstr ""
+msgstr "Standart"
 
 #: ../ui/settings.glade:3681 ../ui/settings.glade:3718
 msgid "Storage Folder"
-msgstr ""
+msgstr "Depolama Klasörü"
 
 #: ../ui/settings.glade:1333
 msgid "Stylus"
