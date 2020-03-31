@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-31 11:41\n"
+"PO-Revision-Date: 2020-03-31 11:47\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1840,11 +1840,11 @@ msgstr "Varsayılan ad: "
 
 #: ../ui/settings.glade:3608
 msgid "Defaults"
-msgstr ""
+msgstr "Varsayılanlar"
 
 #: ../ui/main.glade:1172
 msgid "Delete Layer"
-msgstr ""
+msgstr "Katmanı Sil"
 
 #: ../ui/settingsButtonConfig.glade:132
 msgid "Delete stroke"
@@ -1979,19 +1979,19 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:25
 msgid "Export"
-msgstr ""
+msgstr "Dışa aktar"
 
 #: ../ui/main.glade:250
 msgid "Export as..."
-msgstr ""
+msgstr "Dışa farklı aktar..."
 
 #: ../ui/main.glade:1591 ../ui/main.glade:1796
 msgid "Fi_ll"
-msgstr ""
+msgstr "Do_ldur"
 
 #: ../ui/main.glade:1601 ../ui/main.glade:1806
 msgid "Fill transparency"
-msgstr ""
+msgstr "Dolgu saydamlığı"
 
 #: ../ui/main.glade:2334
 msgid "Find next occurrence of the search string"
@@ -2007,7 +2007,7 @@ msgstr ""
 
 #: ../ui/main.glade:485 ../ui/settings.glade:2395
 msgid "Fullscreen"
-msgstr ""
+msgstr "Tam Ekran"
 
 #: ../ui/about.glade:281
 msgid "GNU GPLv2 or later"
@@ -2015,19 +2015,19 @@ msgstr ""
 
 #: ../ui/settings.glade:3874
 msgid "Gain"
-msgstr ""
+msgstr "Kazanç"
 
 #: ../ui/about.glade:153
 msgid "Git commit"
-msgstr ""
+msgstr "Git işlemesi"
 
 #: ../ui/settings.glade:2114
 msgid "Global"
-msgstr ""
+msgstr "Küresel"
 
 #: ../ui/goto.glade:14
 msgid "Go to Page"
-msgstr ""
+msgstr "Sayfaya Git"
 
 #: ../ui/settings.glade:3104
 msgid "Grid snapping tolerance"
@@ -2035,19 +2035,19 @@ msgstr ""
 
 #: ../ui/main.glade:1451
 msgid "H_and Tool"
-msgstr ""
+msgstr "El _Aracı"
 
 #: ../ui/settings.glade:1724
 msgid "Hand Recognition"
-msgstr ""
+msgstr "El Tanıma"
 
 #: ../ui/pagesize.glade:212
 msgid "Height:"
-msgstr ""
+msgstr "Yükseklik:"
 
 #: ../ui/main.glade:888 ../ui/settings.glade:2357 ../ui/settings.glade:2424
 msgid "Hide Menubar"
-msgstr ""
+msgstr "Menü Çubuğunu Gizle"
 
 #: ../ui/settings.glade:2373 ../ui/settings.glade:2440
 msgid "Hide Sidebar"
@@ -2085,27 +2085,27 @@ msgstr ""
 
 #: ../ui/settings.glade:3773
 msgid "Input Device"
-msgstr ""
+msgstr "Giriş Aygıtı"
 
 #: ../ui/settings.glade:744
 msgid "Input Devices"
-msgstr ""
+msgstr "Giriş Aygıtları"
 
 #: ../ui/settings.glade:869
 msgid "Input System"
-msgstr ""
+msgstr "Giriş Sistemi"
 
 #: ../ui/texdialog.glade:9
 msgid "Insert Latex"
-msgstr ""
+msgstr "Lateks Ekle"
 
 #: ../ui/main.glade:2532
 msgid "Insert Page After"
-msgstr ""
+msgstr "Sonra Sayfa Ekle"
 
 #: ../ui/main.glade:2524
 msgid "Insert Page Before"
-msgstr ""
+msgstr "Önce Sayfa Ekle"
 
 #: ../ui/main.glade:2115
 msgid "Insert a copy of the current page below"
@@ -2113,7 +2113,7 @@ msgstr ""
 
 #: ../ui/main.glade:512
 msgid "Layout"
-msgstr ""
+msgstr "Düzen"
 
 #: ../ui/settings.glade:2249
 msgid "Left / Right-Handed"
@@ -2121,7 +2121,7 @@ msgstr ""
 
 #: ../ui/about.glade:265
 msgid "License"
-msgstr ""
+msgstr "Lisans"
 
 #: ../ui/settings.glade:594
 msgid "Load / Save"
@@ -2210,7 +2210,7 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:175
 msgid "Pages:"
-msgstr ""
+msgstr "Sayfalar:"
 
 #: ../ui/settings.glade:3058
 msgid "Paired Pages"
@@ -2218,7 +2218,7 @@ msgstr ""
 
 #: ../ui/pagesize.glade:18
 msgid "Paper Format"
-msgstr ""
+msgstr "Kağıt Biçimi"
 
 #: ../ui/main.glade:1199
 msgid "Paper _Color"
