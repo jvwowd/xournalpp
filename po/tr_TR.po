@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-31 11:57\n"
+"PO-Revision-Date: 2020-04-01 07:34\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -759,7 +759,7 @@ msgstr "Resim Aç"
 
 #: ../src/control/XournalMain.cpp:115
 msgid "Open Logfile"
-msgstr ""
+msgstr "Log Dosyası Aç"
 
 #: ../src/control/XournalMain.cpp:116
 msgid "Open Logfile directory"
@@ -914,7 +914,7 @@ msgstr ""
 
 #: ../src/util/XojMsgBox.cpp:71
 msgid "Replace"
-msgstr ""
+msgstr "Değiştir"
 
 #: ../src/control/xojfile/LoadHandler.cpp:1041
 msgid "Requested temporary file was not found for attachment {1}"
@@ -922,11 +922,11 @@ msgstr ""
 
 #: ../src/control/XournalMain.cpp:162
 msgid "Restore file"
-msgstr ""
+msgstr "Dosyayı geri yükle"
 
 #: ../src/undo/RotateUndoAction.cpp:53
 msgid "Rotation"
-msgstr ""
+msgstr "Döndür"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:340
 msgid "Rotation Snapping"
@@ -946,47 +946,47 @@ msgstr ""
 
 #: ../src/control/jobs/CustomExportJob.cpp:24
 msgid "SVG graphics"
-msgstr ""
+msgstr "SVG grafikleri"
 
 #: ../src/control/jobs/CustomExportJob.cpp:25
 msgid "SVG with transparent background"
-msgstr ""
+msgstr "Şeffaf arka planlı SVG"
 
 #: ../src/control/Control.cpp:2442 ../src/control/jobs/SaveJob.cpp:13
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:319
 msgid "Save"
-msgstr ""
+msgstr "Kaydet"
 
 #: ../src/control/Control.cpp:2442
 msgid "Save As..."
-msgstr ""
+msgstr "Farklı kaydet..."
 
 #: ../src/control/Control.cpp:2278 ../src/gui/dialog/PageTemplateDialog.cpp:83
 msgid "Save File"
-msgstr ""
+msgstr "Dosyayı Kaydet"
 
 #: ../src/control/jobs/CustomExportJob.cpp:128
 #: ../src/control/jobs/SaveJob.cpp:112
 msgid "Save file error: {1}"
-msgstr ""
+msgstr "Dosya kaydetme hatası: {1}"
 
 #: ../src/undo/ScaleUndoAction.cpp:52
 msgid "Scale"
-msgstr ""
+msgstr "Ölçek"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:334
 msgid "Search"
-msgstr ""
+msgstr "Ara"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:421
 msgid "Select Font"
-msgstr ""
+msgstr "Yazı Tipi Seç"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:416
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:19
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:66
 msgid "Select Object"
-msgstr ""
+msgstr "Nesne Seç"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:414
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:14
@@ -1000,11 +1000,11 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:18
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:61
 msgid "Select Region"
-msgstr ""
+msgstr "Bölge Seç"
 
 #: ../src/control/Control.cpp:1996
 msgid "Select another PDF"
-msgstr ""
+msgstr "Başka bir PDF seç"
 
 #: ../src/util/XojMsgBox.cpp:70
 msgid "Select another name"
@@ -1168,7 +1168,7 @@ msgstr ""
 #: ../src/gui/dialog/ButtonConfigGui.cpp:84
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:474
 msgid "Thick"
-msgstr ""
+msgstr "Kalın"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:81
 msgid "Thickness - don't change"
@@ -1176,11 +1176,11 @@ msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:82
 msgid "Thin"
-msgstr ""
+msgstr "İnce"
 
 #: ../src/control/Control.cpp:2441
 msgid "This document is not saved yet."
-msgstr ""
+msgstr "Bu belge henüz kaydedilmemiş."
 
 #: ../src/control/PageBackgroundChangeController.cpp:150
 #: ../src/control/tools/ImageHandler.cpp:43
@@ -1189,15 +1189,15 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:351
 msgid "Toggle fullscreen"
-msgstr ""
+msgstr "Tam ekrana geç"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:56
 msgid "Tool - don't change"
-msgstr ""
+msgstr "Araç - değiştirmeyin"
 
 #: ../src/gui/toolbarMenubar/model/ToolbarData.cpp:106
 msgid "Toolbar found: {1}"
-msgstr ""
+msgstr "Araç çubuğu bulundu: {1}"
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:45
 msgid "Toolbars"
@@ -1218,7 +1218,7 @@ msgstr "Geri al"
 
 #: ../src/undo/UndoRedoHandler.cpp:198
 msgid "Undo: "
-msgstr ""
+msgstr "Geri al: "
 
 #: ../src/control/xojfile/LoadHandler.cpp:278
 msgid "Unexpected root tag: {1}"
@@ -1242,7 +1242,7 @@ msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:221
 msgid "Unknown parser error"
-msgstr ""
+msgstr "Bilinmeyen ayrıştırma hatası"
 
 #: ../src/control/xojfile/LoadHandler.cpp:376
 msgid "Unknown pixmap::domain type: {1}"
@@ -1254,15 +1254,15 @@ msgstr ""
 
 #: ../src/control/Control.cpp:2342
 msgid "Unsaved Document"
-msgstr ""
+msgstr "Kaydedilmemiş Belge"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:417
 msgid "Vertical Space"
-msgstr ""
+msgstr "Dikey Boşluk"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:62
 msgid "Vertical space"
-msgstr ""
+msgstr "Dikey boşluk"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:471
 msgid "Very Fine"
@@ -1279,7 +1279,7 @@ msgstr "Beyaz"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:29
 msgid "With PDF background"
-msgstr ""
+msgstr "PDF arkaplanı ile"
 
 #: ../src/undo/InsertUndoAction.cpp:32
 msgid "Write text"
@@ -1303,7 +1303,7 @@ msgstr ""
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:50
 msgid "Xournal files"
-msgstr ""
+msgstr "Xournal dosyaları"
 
 #: ../src/control/XournalMain.cpp:156
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
@@ -1311,12 +1311,12 @@ msgstr ""
 
 #: ../src/control/Control.cpp:2284 ../src/control/stockdlg/XojOpenDlg.cpp:57
 msgid "Xournal++ files"
-msgstr ""
+msgstr "Xournal++ dosyaları"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:64
 #: ../src/gui/dialog/PageTemplateDialog.cpp:89
 msgid "Xournal++ template"
-msgstr ""
+msgstr "Xournal++ şablonu"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:19
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:112
@@ -1561,15 +1561,15 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:256
 msgid "<b>Background Color</b>"
-msgstr ""
+msgstr "<b>Arka plan Rengi</b>"
 
 #: ../ui/pageTemplate.glade:269
 msgid "<b>Background</b>"
-msgstr ""
+msgstr "<b>Arka plan</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:141
 msgid "<b>Color</b>"
-msgstr ""
+msgstr "<b>Renk</b>"
 
 #: ../ui/pageTemplate.glade:110
 msgid "<b>Configure Xournal++ Template Page</b>\n"
@@ -1711,11 +1711,11 @@ msgstr ""
 
 #: ../ui/about.glade:9
 msgid "About Xournal++"
-msgstr ""
+msgstr "Xournal++ Hakkında"
 
 #: ../ui/settings.glade:3430
 msgid "Action on Tool Tap"
-msgstr ""
+msgstr "Araç Dokunma İşlemi"
 
 #: ../ui/settings.glade:2921
 msgid "Add additional horizontal space of"
@@ -1828,7 +1828,7 @@ msgstr ""
 
 #: ../ui/settings.glade:498
 msgid "Default Save Name"
-msgstr ""
+msgstr "Varsayılan Dosya Adı"
 
 #: ../ui/settings.glade:3955
 msgid "Default Seek Time (in seconds)"
@@ -1872,15 +1872,15 @@ msgstr ""
 
 #: ../ui/settingsDeviceClassConfig.glade:41
 msgid "Disabled"
-msgstr ""
+msgstr "Devre dışı"
 
 #: ../ui/settings.glade:1496
 msgid "Disabling Method"
-msgstr ""
+msgstr "Devre Dışı Bırakma Yöntemi"
 
 #: ../ui/settings.glade:2786
 msgid "Display DPI Calibration"
-msgstr ""
+msgstr "Ekran DPI Kalibrasyonu"
 
 #: ../ui/settings.glade:3271
 msgid "Do not draw for inputs of short time and length unless it comes in short succession. Instead, show floating toolbox."
@@ -1903,7 +1903,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3462
 msgid "Drawing Area"
-msgstr ""
+msgstr "Çizim Alanı"
 
 #: ../ui/settings.glade:3234
 msgid "Drawing Tools - Set Modifiers by Draw Direction (Experimental)"
