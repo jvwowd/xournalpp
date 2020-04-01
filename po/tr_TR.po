@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-01 12:55\n"
+"PO-Revision-Date: 2020-04-01 14:06\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -864,7 +864,7 @@ msgstr "Duraklat / Oynat"
 #: ../src/gui/dialog/ButtonConfigGui.cpp:57
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:228
 msgid "Pen"
-msgstr "Tükenmez Kalem"
+msgstr "Kalem"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:19
 msgid "Plain"
@@ -1258,7 +1258,7 @@ msgstr "Bilinmeyen pixmap::alan adı türü: {1}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:579
 msgid "Unknown stroke type: \"{1}\", assuming pen"
-msgstr "Bilinmeyen kontur türü: \"{1}\", tükenmez kalem varsayarak"
+msgstr "Bilinmeyen kontur türü: \"{1}\", kalem varsayarak"
 
 #: ../src/control/Control.cpp:2342
 msgid "Unsaved Document"
@@ -1444,7 +1444,7 @@ msgstr "pdflatex bir hatayla karşılaştı: {1} (çıkış kodu: {2})"
 
 #: ../src/util/DeviceListHelper.cpp:92
 msgid "pen"
-msgstr "tükenmez kalem"
+msgstr "kalem"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:153
 msgid "show"
@@ -1630,37 +1630,40 @@ msgstr "<b>Varsayılan</b>"
 #: ../ui/exportSettings.glade:90
 msgid "<b>Document export settings</b>\n"
 "Select pages to export"
-msgstr ""
+msgstr "<b>Belge dışa aktarma ayarları</b>\n"
+"Dışa aktarılacak sayfaları seçin"
 
 #: ../ui/main.glade:110
 msgid "<b>Empty Toolbox</b>\n"
 "<i>Menu: View/Toolbars</i>"
-msgstr ""
+msgstr "<b>Boş Araç Kutusu</b>\n"
+"<i>Menü: Görünüm/Araç Çubukları</i>"
 
 #: ../ui/fillTransparency.glade:79
 msgid "<b>Fill transparency settings</b>\n"
 "Select transparency for fill color"
-msgstr ""
+msgstr "<b>Dolgu saydamlığı ayarları</b>\n"
+"Dolgu rengi için saydamlığı seç"
 
 #: ../ui/pageTemplate.glade:132
 msgid "<b>Page size</b>"
-msgstr ""
+msgstr "<b>Sayfa boyutu</b>"
 
 #: ../ui/pagesize.glade:142
 msgid "<b>Pagesize</b>"
-msgstr ""
+msgstr "<b>Sayfa boyutu</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:196
 msgid "<b>Separator</b>"
-msgstr ""
+msgstr "<b>Ayırıcı</b>"
 
 #: ../ui/settings.glade:708
 msgid "<i>Assign device classes to each input device of your system. Only change these values if your devices are not correctly matched. (e.g. your pen shows up as touchscreen)</i>"
-msgstr ""
+msgstr "<i>Sisteminizin her giriş aygıtına aygıt sınıfları atayın. Bu değerleri yalnızca aygıtlarınız doğru eşleşmediğinde değiştirin. (örneğin kaleminiz dokunmatik ekran olarak görünürse)</i>"
 
 #: ../ui/settings.glade:3659
 msgid "<i>Audio recordings are currently stored in a separate folder and referenced from the journal.</i>"
-msgstr ""
+msgstr "<i>Ses kayıtları şu anda ayrı bir klasörde saklanmakta ve günlükten kaynaklanmaktadır.</i>"
 
 #: ../ui/settings.glade:4002
 msgid "<i>Changes take only effect on new recordings and playbacks.</i>"
