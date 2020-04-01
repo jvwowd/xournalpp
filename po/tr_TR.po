@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-01 12:36\n"
+"PO-Revision-Date: 2020-04-01 12:55\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1615,15 +1615,17 @@ msgstr "<b>Xournal++ Şablon Sayfasını Yapılandır</b>\n"
 msgid "<b>Copy last page</b>\n"
 "Use the settings above\n"
 "for the fist Page"
-msgstr ""
+msgstr "<b>Son sayfayı kopyala</b>\n"
+"İlk Sayfa için yukarıdaki\n"
+"ayarları kullanın"
 
 #: ../ui/toolbarCustomizeDialog.glade:86
 msgid "<b>Default Tools</b>"
-msgstr ""
+msgstr "<b>Varsayılan Araçlar</b>"
 
 #: ../ui/settings.glade:3568
 msgid "<b>Default</b>"
-msgstr ""
+msgstr "<b>Varsayılan</b>"
 
 #: ../ui/exportSettings.glade:90
 msgid "<b>Document export settings</b>\n"
