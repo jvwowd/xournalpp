@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-01 08:52\n"
+"PO-Revision-Date: 2020-04-01 09:02\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1295,19 +1295,19 @@ msgstr "Metin yaz"
 
 #: ../src/control/xojfile/LoadHandler.cpp:896
 msgid "Wrong count of points ({1})"
-msgstr "Yanlış nokta sayısı ({1})"
+msgstr "Yanlış puan sayısı ({1})"
 
 #: ../src/control/xojfile/LoadHandler.cpp:906
 msgid "Wrong number of points, got {1}, expected {2}"
-msgstr ""
+msgstr "Yanlış puan sayısı, {1}, beklenen {2}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:218
 msgid "XML Parser error: {1}"
-msgstr ""
+msgstr "XML Ayrıştırıcı hatası: {1}"
 
 #: ../src/control/jobs/CustomExportJob.cpp:26
 msgid "Xournal (Compatibility)"
-msgstr ""
+msgstr "Xournal (Uyumluluk)"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:50
 msgid "Xournal files"
@@ -1315,7 +1315,7 @@ msgstr "Xournal dosyaları"
 
 #: ../src/control/XournalMain.cpp:156
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
-msgstr ""
+msgstr "Xournal++ son kez çöktü. Son düzenlenen dosyayı geri yüklemek ister misiniz?"
 
 #: ../src/control/Control.cpp:2284 ../src/control/stockdlg/XojOpenDlg.cpp:57
 msgid "Xournal++ files"
