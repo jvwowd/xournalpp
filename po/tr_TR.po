@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-01 08:23\n"
+"PO-Revision-Date: 2020-04-01 08:29\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -916,7 +916,7 @@ msgstr "Araç öğesi {1} ID {2} Araç Çubuğundan kaldırıldı"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:158
 msgid "Removed tool item {1} from Toolbar {2} ID {3}"
-msgstr ""
+msgstr "{1} araç öğesi {2} Araç Çubuğundan kaldırıldı ID {3}"
 
 #: ../src/util/XojMsgBox.cpp:71
 msgid "Replace"
@@ -924,7 +924,7 @@ msgstr "Değiştir"
 
 #: ../src/control/xojfile/LoadHandler.cpp:1041
 msgid "Requested temporary file was not found for attachment {1}"
-msgstr ""
+msgstr "{1} eki için istenen geçici dosya bulunamadı"
 
 #: ../src/control/XournalMain.cpp:162
 msgid "Restore file"
@@ -936,7 +936,7 @@ msgstr "Döndür"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:340
 msgid "Rotation Snapping"
-msgstr ""
+msgstr "Dönme Yakalama"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:20
 msgid "Ruled"
@@ -944,11 +944,11 @@ msgstr ""
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:21
 msgid "Ruled with vertical line"
-msgstr ""
+msgstr "Dikey çizgi ile yönetilir"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:409
 msgid "Ruler"
-msgstr ""
+msgstr "Cetvel"
 
 #: ../src/control/jobs/CustomExportJob.cpp:24
 msgid "SVG graphics"
@@ -1000,7 +1000,7 @@ msgstr "Nesne Seç"
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:56
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:86
 msgid "Select Rectangle"
-msgstr ""
+msgstr "Dikdörtgen Seç"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:412
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:18
@@ -1014,11 +1014,11 @@ msgstr "Başka bir PDF seç"
 
 #: ../src/util/XojMsgBox.cpp:70
 msgid "Select another name"
-msgstr ""
+msgstr "Başka bir ad seçin"
 
 #: ../src/gui/dialog/SelectBackgroundColorDialog.cpp:114
 msgid "Select background color"
-msgstr ""
+msgstr "Arka plan rengi seç"
 
 #: ../src/gui/toolbarMenubar/ColorToolItem.cpp:39
 #: ../src/gui/toolbarMenubar/ColorToolItem.cpp:91
@@ -1027,7 +1027,7 @@ msgstr "Renk seç"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:64
 msgid "Select rectangle"
-msgstr ""
+msgstr "Dikdörtgen seç"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:63
 msgid "Select region"
@@ -1035,7 +1035,7 @@ msgstr "Bölge seç"
 
 #: ../src/control/XournalMain.cpp:114
 msgid "Send Bugreport"
-msgstr ""
+msgstr "Hata Raporu Gönder"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:50
 msgid "Separator"
@@ -1043,7 +1043,7 @@ msgstr "Ayırıcı"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:403
 msgid "Shape Recognizer"
-msgstr ""
+msgstr "Şekil Tanıyıcı"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:63
 msgid "Show all"
@@ -1051,11 +1051,11 @@ msgstr "Tümünü göster"
 
 #: ../src/gui/dialog/backgroundSelect/PdfPagesDialog.cpp:88
 msgid "Show only not used pages (one unused page)"
-msgstr ""
+msgstr "Yalnızca kullanılmayan sayfaları göster (kullanılmayan bir sayfa)"
 
 #: ../src/gui/dialog/backgroundSelect/PdfPagesDialog.cpp:89
 msgid "Show only not used pages ({1} unused pages)"
-msgstr ""
+msgstr "Yalnızca kullanılmayan sayfaları göster ({1} kullanılmayan sayfa)"
 
 #: ../src/control/XournalMain.cpp:338
 msgid "Sorry, Xournal++ can only open one file at once.\n"
