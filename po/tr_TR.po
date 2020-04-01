@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-01 07:34\n"
+"PO-Revision-Date: 2020-04-01 07:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1911,15 +1911,15 @@ msgstr ""
 
 #: ../ui/main.glade:2540
 msgid "Duplicate"
-msgstr ""
+msgstr "Çoğalt"
 
 #: ../ui/main.glade:2577
 msgid "Edit (not implemented yet)"
-msgstr ""
+msgstr "Düzenle (henüz uygulanmadı)"
 
 #: ../ui/settings.glade:1615
 msgid "Enable"
-msgstr ""
+msgstr "Etkinleştir"
 
 #: ../ui/settings.glade:3179
 msgid "Enable  with determination radius of "
@@ -1943,7 +1943,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3266
 msgid "Enable Tap action"
-msgstr ""
+msgstr "Dokunma eylemini etkinleştir"
 
 #: ../ui/settings.glade:796
 msgid "Enable drawing outside of window <i>(Drawing will not stop at the border of the window)</i>"
@@ -1967,15 +1967,15 @@ msgstr ""
 
 #: ../ui/main.glade:1615
 msgid "Eraser Optio_ns"
-msgstr ""
+msgstr "Silgi _Seçenekleri"
 
 #: ../ui/settingsButtonConfig.glade:129
 msgid "Eraser Type - don't change"
-msgstr ""
+msgstr "Silgi Türü - değiştirmeyin"
 
 #: ../ui/settings.glade:677
 msgid "Experimental Input System"
-msgstr ""
+msgstr "Deneysel Giriş Sistemi"
 
 #: ../ui/exportSettings.glade:25
 msgid "Export"
@@ -2051,23 +2051,23 @@ msgstr "Menü Çubuğunu Gizle"
 
 #: ../ui/settings.glade:2373 ../ui/settings.glade:2440
 msgid "Hide Sidebar"
-msgstr ""
+msgstr "Kenar Çubuğunu Gizle"
 
 #: ../ui/settings.glade:2278
 msgid "Hide the horizontal scrollbar"
-msgstr ""
+msgstr "Yatay kaydırma çubuğunu gizle"
 
 #: ../ui/settings.glade:2293
 msgid "Hide the vertical scrollbar"
-msgstr ""
+msgstr "Dikey kaydırma çubuğunu gizle"
 
 #: ../ui/settings.glade:2144
 msgid "Highlight cursor position"
-msgstr ""
+msgstr "İmleç konumunu vurgula"
 
 #: ../ui/main.glade:1724
 msgid "Highlighter Opti_ons"
-msgstr ""
+msgstr "Vurgulayıcı Seçenek_leri"
 
 #: ../ui/settings.glade:3317
 msgid "How short (screen mm)  of the stroke  AND...\n\n"
@@ -2081,7 +2081,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3284
 msgid "Ignore Time (ms)"
-msgstr ""
+msgstr "Zamanı Yoksay (ms)"
 
 #: ../ui/settings.glade:3773
 msgid "Input Device"
