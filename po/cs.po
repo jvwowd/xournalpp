@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-28 04:06\n"
+"PO-Revision-Date: 2020-04-01 12:22\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -503,7 +503,7 @@ msgstr "Chyba při automatickém ukládání: {1}"
 
 #: ../src/util/Util.cpp:167
 msgid "Error {1} executing system command: {2}"
-msgstr ""
+msgstr "Chyba {1} při provádění systémového příkazu: {2}"
 
 #: ../src/util/CrashHandler.cpp:39
 msgid "Error: {1}"
