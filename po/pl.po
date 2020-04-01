@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-28 04:07\n"
+"PO-Revision-Date: 2020-04-01 14:06\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -1933,7 +1933,7 @@ msgstr ""
 
 #: ../ui/main.glade:2577
 msgid "Edit (not implemented yet)"
-msgstr ""
+msgstr "Edycja (nie zaimplementowana)"
 
 #: ../ui/settings.glade:1615
 msgid "Enable"
@@ -2216,7 +2216,7 @@ msgstr "Opcje"
 
 #: ../ui/settings.glade:3796
 msgid "Output Device"
-msgstr ""
+msgstr "Urządzenie wyjściowe"
 
 #: ../ui/main.glade:1077
 msgid "P_revious annotated Page"
@@ -2224,7 +2224,7 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:18
 msgid "Page Template"
-msgstr ""
+msgstr "Szablon strony"
 
 #: ../ui/exportSettings.glade:175
 msgid "Pages:"
@@ -2232,7 +2232,7 @@ msgstr "Stron:"
 
 #: ../ui/settings.glade:3058
 msgid "Paired Pages"
-msgstr ""
+msgstr "Tryb dwóch stron"
 
 #: ../ui/pagesize.glade:18
 msgid "Paper Format"
@@ -2257,7 +2257,7 @@ msgstr ""
 
 #: ../ui/main.glade:1842
 msgid "Pause"
-msgstr ""
+msgstr "Wstrzymaj"
 
 #: ../ui/main.glade:1469
 msgid "Pen _Options"
@@ -2269,15 +2269,15 @@ msgstr ""
 
 #: ../ui/plugin.glade:14
 msgid "Plugin Manager"
-msgstr ""
+msgstr "Menadżer wtyczek"
 
 #: ../ui/main.glade:1907
 msgid "Plugin _Manager"
-msgstr ""
+msgstr "Menadżer wtyczek"
 
 #: ../ui/plugin.glade:121
 msgid "Plugin changes are only applied after Xournal++ was restarted"
-msgstr ""
+msgstr "Zmiany wtyczek są stosowane tylko po ponownym uruchomieniu Xournal++"
 
 #: ../ui/main.glade:440
 msgid "Preferences"
@@ -2285,11 +2285,11 @@ msgstr "Preferencje"
 
 #: ../ui/settings.glade:2496
 msgid "Presentation Mode"
-msgstr ""
+msgstr "Tryb prezentacji"
 
 #: ../ui/settings.glade:1136
 msgid "Pressure Sensitivity"
-msgstr ""
+msgstr "Czułość nacisku"
 
 #: ../ui/about.glade:167
 msgid "RELEASE_IDENTIFIER"
@@ -2305,31 +2305,31 @@ msgstr "Ostatnie _dokumenty"
 
 #: ../ui/main.glade:1832
 msgid "Record / Stop"
-msgstr ""
+msgstr "Nagrywaj | Zakończ"
 
 #: ../ui/settings.glade:3923
 msgid "Recording Quality"
-msgstr ""
+msgstr "Jakość nagrywania"
 
 #: ../ui/exportSettings.glade:112
 msgid "Resolution"
-msgstr ""
+msgstr "Rozdzielczość"
 
 #: ../ui/settings.glade:999
 msgid "Right Mouse Button"
-msgstr ""
+msgstr "Prawy przycisk myszki"
 
 #: ../ui/settings.glade:3091
 msgid "Rotation snapping tolerance"
-msgstr ""
+msgstr "Tolerancja przyciągania rotacji"
 
 #: ../ui/settings.glade:3862
 msgid "Sample Rate"
-msgstr ""
+msgstr "Częstotliwość próbkowania"
 
 #: ../ui/settings.glade:2328
 msgid "Scrollbars"
-msgstr ""
+msgstr "Paski przewijania"
 
 #: ../ui/settings.glade:2993
 msgid "Scrolling outside the page"
@@ -2337,11 +2337,11 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:174
 msgid "Select Background Color"
-msgstr ""
+msgstr "Wybierz kolor tła"
 
 #: ../ui/settings.glade:3696
 msgid "Select Folder"
-msgstr ""
+msgstr "Wybierz folder"
 
 #: ../ui/images.glade:8
 msgid "Select Image"
@@ -2361,15 +2361,15 @@ msgstr ""
 
 #: ../ui/main.glade:621
 msgid "Set Columns"
-msgstr ""
+msgstr "Ustaw kolumny"
 
 #: ../ui/main.glade:726
 msgid "Set Rows"
-msgstr ""
+msgstr "Ustaw wiersze"
 
 #: ../ui/settings.glade:3398
 msgid "Settings:"
-msgstr ""
+msgstr "Ustawienia:"
 
 #: ../ui/settings.glade:3407
 msgid "Show Floating Toolbox"
@@ -2393,7 +2393,7 @@ msgstr "Pokaż pionowy pasek przewijania po lewej stronie"
 
 #: ../ui/settings.glade:3150
 msgid "Snapping"
-msgstr ""
+msgstr "Przyciąganie"
 
 #: ../ui/settings.glade:2579
 msgid "Speed for Ctrl + Scroll"
@@ -2413,11 +2413,11 @@ msgstr ""
 
 #: ../ui/settings.glade:1333
 msgid "Stylus"
-msgstr ""
+msgstr "Piórko"
 
 #: ../ui/settings.glade:1302
 msgid "Stylus Buttons"
-msgstr ""
+msgstr "Przyciski piórka"
 
 #: ../ui/settings.glade:3348
 msgid "Successive (ms)"
@@ -2466,15 +2466,15 @@ msgstr ""
 #: ../ui/settings.glade:1420 ../ui/settings.glade:1889
 #: ../ui/settingsDeviceClassConfig.glade:46
 msgid "Touchscreen"
-msgstr ""
+msgstr "Ekran dotykowy"
 
 #: ../ui/fillTransparency.glade:14
 msgid "Transparency settings"
-msgstr ""
+msgstr "Ustawienia przezroczystości"
 
 #: ../ui/settings.glade:3377
 msgid "Try to select object first."
-msgstr ""
+msgstr "Spróbuj najpierw wybrać obiekt."
 
 #: ../ui/settings.glade:3382 ../ui/settings.glade:3412
 msgid "Try to select object first; if nothing selected then show floating toolbox if enabled."
@@ -2482,15 +2482,15 @@ msgstr ""
 
 #: ../ui/settings.glade:3038
 msgid "Usually 0 or 1"
-msgstr ""
+msgstr "Zazwyczaj 0 lub 1"
 
 #: ../ui/about.glade:101
 msgid "Version"
-msgstr ""
+msgstr "Wersja"
 
 #: ../ui/pluginEntry.glade:94
 msgid "Version: "
-msgstr ""
+msgstr "Wersja: "
 
 #: ../ui/settings.glade:2527
 msgid "View"
@@ -2506,7 +2506,7 @@ msgstr "Szerokość:"
 
 #: ../ui/about.glade:232
 msgid "With help from the community"
-msgstr ""
+msgstr "Z pomocą społeczności"
 
 #: ../ui/settings.glade:1858
 msgid "Workaround"
