@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-01 11:08\n"
+"PO-Revision-Date: 2020-04-01 12:22\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1440,7 +1440,7 @@ msgstr "fare"
 
 #: ../src/control/LatexController.cpp:264
 msgid "pdflatex encountered an error: {1} (exit code: {2})"
-msgstr ""
+msgstr "pdflatex bir hatayla karşılaştı: {1} (çıkış kodu: {2})"
 
 #: ../src/util/DeviceListHelper.cpp:92
 msgid "pen"
@@ -1485,7 +1485,7 @@ msgstr "olmadan"
 
 #: ../src/control/xojfile/LoadHandler.cpp:905
 msgid "xoj-File: {1}"
-msgstr ""
+msgstr "xoj-Dosyası: {1}"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:71
 msgid "xoj-preview-extractor: call with INPUT.xoj OUTPUT.png"
@@ -1493,43 +1493,43 @@ msgstr ""
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:143
 msgid "xoj-preview-extractor: could not find icon \"{1}\""
-msgstr ""
+msgstr "xoj-preview-extractor: \"{1}\" simgesi bulunamadı"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:92
 msgid "xoj-preview-extractor: file \"{1}\" contains no preview"
-msgstr ""
+msgstr "xoj-preview-extractor: \"{1}\" dosyası önizleme içermiyor"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:84
 msgid "xoj-preview-extractor: file \"{1}\" is not .xoj file"
-msgstr ""
+msgstr "xoj-preview-extractor: \"{1}\" dosyası .xoj dosyası değil"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:97
 msgid "xoj-preview-extractor: no preview and page found, maybe an invalid file?"
-msgstr ""
+msgstr "xoj-preview-extractor: önizleme ve sayfa bulunamadı, geçersiz bir dosya olabilir mi?"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:88
 msgid "xoj-preview-extractor: opening input file \"{1}\" failed"
-msgstr ""
+msgstr "xoj-preview-extractor: \"{1}\" girdi dosyası açılamadı"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:156
 msgid "xoj-preview-extractor: opening output file \"{1}\" failed"
-msgstr ""
+msgstr "xoj-preview-extractor: \"{1}\" çıktı dosyası açılamadı"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:163
 msgid "xoj-preview-extractor: successfully extracted"
-msgstr ""
+msgstr "xoj-preview-extractor: başarıyla çıkarıldı"
 
 #: ../src/util/Util.cpp:96
 msgid "xournalpp-{1}"
-msgstr ""
+msgstr "xournalpp-{1}"
 
 #: ../ui/main.glade:31
 msgid " = Floating Toolbox (experimental) ="
-msgstr ""
+msgstr " = Kayan Araç Kutusu (deneysel) ="
 
 #: ../ui/settings.glade:2635 ../ui/settings.glade:2646
 msgid "%"
-msgstr ""
+msgstr "%"
 
 #: ../ui/settings.glade:425
 msgid "%a\t\tAbbreviated weekday name (e.g. Thu)\n"
@@ -1555,16 +1555,39 @@ msgid "%a\t\tAbbreviated weekday name (e.g. Thu)\n"
 "%Y\t\tYear (e.g. 2001)\n"
 "%Z\t\tTimezone name or abbreviation (e.g. CDT)\n"
 "%%\tA % sign"
-msgstr ""
+msgstr "%a\t\tKısaltılmış hafta içi adı (ör. Per)\n"
+"%A\t\tHafta içi tam ad (ör. Perşembe)\n"
+"%b\t\tKısaltılmış ay adı (ör. Ağu)\n"
+"%B\t\tTam ay adı (ör. Ağustos)\n"
+"%c\t\tTarih ve saat gösterimi (ör. Perş 23 Ağu 14:55:02 2001)\n"
+"%d\t\tAyın günü (01-31)\n"
+"%F\t\tTarih gösterimi (ör. 2001-08-23)\n"
+"%H\t\t24s biçiminde saat (00-23)\n"
+"%I\t\t12s biçiminde saat (01-12)\n"
+"%j\t\tYılın günü (001-366)\n"
+"%m\tOndalık sayı olarak ay (01-12)\n"
+"%M\tDakika (00-59)\n"
+"%p\t\tAM veya PM gösterilme (ör. PM)\n"
+"%S\t\tsecond (00-61)\n"
+"%U\t\tBirinci haftanın ilk günü olarak ilk Pazartesi olan hafta numarası (00-53)\n"
+"%w\t\tHafta içi ondalık sayı olarak, Pazar günü 0 olarak (0-6)\n"
+"%W\tBirinci haftanın ilk günü olarak ilk Pazartesi olan hafta numarası (00-53)\n"
+"%x\t\tTarih gösterimi (ör. 08/23/01)\n"
+"%X\t\tZaman gösterimi (ör. 14:55:02)\n"
+"%y\t\tYıl, son iki basamak (00-99)\n"
+"%Y\t\tYıl (ör. 2001)\n"
+"%Z\t\tSaat dilimi adı veya kısaltması (ör. CDT)\n"
+"%%\tA % sign"
 
 #: ../ui/settings.glade:3360
 msgid "... AND How much time must have passed since last stroke.\n\n"
 "<i>Recommended: 500ms</i>"
-msgstr ""
+msgstr "... VE Son vuruştan bu yana ne kadar zaman geçmiş olmalı.\n\n"
+"<i>Önerilen: 500ms</i>"
 
 #: ../ui/settings.glade:3968
 msgid "1,00"
-msgstr ""
+msgstr "1,00"
 
 #: ../ui/images.glade:88
 msgid "<b>... or select already used Image:</b>"
@@ -1585,7 +1608,8 @@ msgstr "<b>Renk</b>"
 #: ../ui/pageTemplate.glade:110
 msgid "<b>Configure Xournal++ Template Page</b>\n"
 "This settings will be used if you create a new document"
-msgstr ""
+msgstr "<b>Xournal++ Şablon Sayfasını Yapılandır</b>\n"
+"Yeni bir belge oluşturursanız bu ayarlar kullanılır"
 
 #: ../ui/pageTemplate.glade:241 ../ui/pageTemplate.glade:282
 msgid "<b>Copy last page</b>\n"
