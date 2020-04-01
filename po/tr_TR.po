@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-01 08:43\n"
+"PO-Revision-Date: 2020-04-01 08:52\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1167,11 +1167,11 @@ msgstr "Xournal++'dan hata günlüğü dosyaları var. Lütfen bir Hata Raporu g
 
 #: ../src/control/XournalMain.cpp:101
 msgid "There is an errorlogfile from Xournal++. Please send a Bugreport, so the bug may be fixed."
-msgstr ""
+msgstr "Xournal++ 'dan bir hata günlüğü dosyası var. Lütfen bir Hata Raporu gönderin, böylece hata düzeltilebilir."
 
 #: ../src/util/XojMsgBox.cpp:89
 msgid "There was an error displaying help: {1}"
-msgstr ""
+msgstr "Yardım görüntülenirken bir hata oluştu: {1}"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:84
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:474
@@ -1180,7 +1180,7 @@ msgstr "Kalın"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:81
 msgid "Thickness - don't change"
-msgstr ""
+msgstr "Kalınlık - değiştirmeyin"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:82
 msgid "Thin"
@@ -1193,7 +1193,7 @@ msgstr "Bu belge henüz kaydedilmemiş."
 #: ../src/control/PageBackgroundChangeController.cpp:150
 #: ../src/control/tools/ImageHandler.cpp:43
 msgid "This image could not be loaded. Error message: {1}"
-msgstr ""
+msgstr "Bu resim yüklenemedi. Hata mesajı: {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:351
 msgid "Toggle fullscreen"
@@ -1213,11 +1213,11 @@ msgstr "Araç çubukları"
 
 #: ../src/util/CrashHandler.cpp:30
 msgid "Trying to emergency save the current open document…"
-msgstr ""
+msgstr "Acil durum mevcut belgeyi kaydetmeye çalışıyor…"
 
 #: ../src/gui/PageView.cpp:355
 msgid "Unable to play audio recording {1}"
-msgstr ""
+msgstr "Ses kaydı oynatılamıyor {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:325
 #: ../src/undo/UndoRedoHandler.cpp:203
@@ -1230,23 +1230,23 @@ msgstr "Geri al: "
 
 #: ../src/control/xojfile/LoadHandler.cpp:278
 msgid "Unexpected root tag: {1}"
-msgstr ""
+msgstr "Beklenmeyen kök etiketi: {1}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:299
 msgid "Unexpected tag in document: \"{1}\""
-msgstr ""
+msgstr "Belgede beklenmeyen etiket: \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:488
 msgid "Unknown background type: {1}"
-msgstr ""
+msgstr "Bilinmeyen arka plan türü: {1}"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:54
 msgid "Unknown color value \"{1}\""
-msgstr ""
+msgstr "Bilinmeyen renk değeri \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:446
 msgid "Unknown domain type: {1}"
-msgstr ""
+msgstr "Bilinmeyen alan adı türü: {1}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:221
 msgid "Unknown parser error"
@@ -1254,11 +1254,11 @@ msgstr "Bilinmeyen ayrıştırma hatası"
 
 #: ../src/control/xojfile/LoadHandler.cpp:376
 msgid "Unknown pixmap::domain type: {1}"
-msgstr ""
+msgstr "Bilinmeyen pixmap::alan adı türü: {1}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:579
 msgid "Unknown stroke type: \"{1}\", assuming pen"
-msgstr ""
+msgstr "Bilinmeyen kontur türü: \"{1}\", tükenmez kalem varsayarak"
 
 #: ../src/control/Control.cpp:2342
 msgid "Unsaved Document"
@@ -1295,7 +1295,7 @@ msgstr "Metin yaz"
 
 #: ../src/control/xojfile/LoadHandler.cpp:896
 msgid "Wrong count of points ({1})"
-msgstr ""
+msgstr "Yanlış nokta sayısı ({1})"
 
 #: ../src/control/xojfile/LoadHandler.cpp:906
 msgid "Wrong number of points, got {1}, expected {2}"
@@ -1677,7 +1677,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3513
 msgid "<i>Select the tool and Settings if you press the Default Button.</i>"
-msgstr ""
+msgstr "<i>Varsayılan Düğmeye basarsanız aracı ve Ayarlar'ı seçin.</i>"
 
 #: ../ui/settings.glade:1592
 msgid "<i>Specify commands that are called once Hand Recognition triggers. The commands will be executed in the UI Thread, make sure they are not blocking!</i>"
