@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-01 07:40\n"
+"PO-Revision-Date: 2020-04-01 08:23\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -495,15 +495,15 @@ msgstr "Resim #1 kaydedilirken hata oluştu"
 
 #: ../src/control/jobs/ImageExport.cpp:119
 msgid "Error save image #2"
-msgstr ""
+msgstr "Resim #2 kaydedilirken hata oluştu"
 
 #: ../src/control/jobs/AutosaveJob.cpp:15
 msgid "Error while autosaving: {1}"
-msgstr ""
+msgstr "Otomatik kaydetme hatası: {1}"
 
 #: ../src/util/Util.cpp:167
 msgid "Error {1} executing system command: {2}"
-msgstr ""
+msgstr "Sistem komutu yürütülürken {1} hatası: {2}"
 
 #: ../src/util/CrashHandler.cpp:39
 msgid "Error: {1}"
@@ -512,7 +512,8 @@ msgstr "Hata: {1}"
 #: ../src/control/XournalMain.cpp:137
 msgid "Errorlog cannot be deleted. You have to do it manually.\n"
 "Logfile: {1}"
-msgstr ""
+msgstr "Hata günlüğü silinemez. Elle yapmalısınız.\n"
+"Günlük dosyası: {1}"
 
 #: ../src/control/jobs/BaseExportJob.cpp:16
 msgid "Export PDF"
@@ -521,7 +522,8 @@ msgstr "PDF olarak dışa aktar"
 #: ../src/util/Util.cpp:123 ../src/util/Util.cpp:140
 msgid "File couldn't be opened. You have to do it manually:\n"
 "URL: {1}"
-msgstr ""
+msgstr "Dosya açılamadı. Elle yapmalısınız:\n"
+"URL: {1}"
 
 #: ../src/control/Control.cpp:1964
 msgid "Filename: {1}"
@@ -537,7 +539,7 @@ msgstr "İyi"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:66
 msgid "Floating Toolbox (experimental)"
-msgstr ""
+msgstr "Yüzen Araç Kutusu (deneysel)"
 
 #: ../src/gui/toolbarMenubar/FontButton.cpp:54
 msgid "Font"
@@ -587,7 +589,7 @@ msgstr "Yeşil"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:342
 msgid "Grid Snapping"
-msgstr ""
+msgstr "Izgara Yakalama"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:65
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:419
@@ -610,11 +612,11 @@ msgstr "Resim"
 
 #: ../src/control/XournalMain.cpp:224
 msgid "Image file successfully created"
-msgstr ""
+msgstr "Resim dosyası başarıyla oluşturuldu"
 
 #: ../src/control/XournalMain.cpp:271
 msgid "Image output filename (.png / .svg)"
-msgstr ""
+msgstr "Resim çıktısı dosya adı (.png / .svg)"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:17
 msgid "Images"
@@ -697,7 +699,10 @@ msgid "Missing the needed UI file:\n"
 "{1}\n"
 " .app corrupted?\n"
 "Path: {2}"
-msgstr ""
+msgstr "Gerekli kullanıcı arayüzü dosyası eksik:\n"
+"{1}\n"
+" .app bozuk mu?\n"
+"Yol: {2}"
 
 #: ../src/undo/MoveUndoAction.cpp:17
 msgid "Move"
@@ -709,11 +714,11 @@ msgstr "Katmanı taşı"
 
 #: ../src/undo/SwapUndoAction.cpp:63
 msgid "Move page downwards"
-msgstr ""
+msgstr "Sayfayı aşağıya doğru taşı"
 
 #: ../src/undo/SwapUndoAction.cpp:63
 msgid "Move page upwards"
-msgstr ""
+msgstr "Sayfayı yukarıya doğru taşı"
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:70
 msgid "New"
@@ -721,7 +726,7 @@ msgstr "Yeni"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:317
 msgid "New Xournal"
-msgstr ""
+msgstr "Yeni Xournal"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:367
 msgid "Next"
@@ -729,7 +734,7 @@ msgstr "Sonraki"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:375
 msgid "Next annotated page"
-msgstr ""
+msgstr "Sonraki açıklamalı sayfa"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:41
 msgid "No device"
@@ -742,7 +747,7 @@ msgstr "Dışarıya aktarılacak sayfalar bulunamadı!"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:93
 msgid "Normal drawing"
-msgstr ""
+msgstr "Normal çizim"
 
 #: ../src/plugin/Plugin.cpp:308 ../src/plugin/Plugin.cpp:327
 msgid "OK"
@@ -751,7 +756,8 @@ msgstr "Tamam"
 #: ../src/control/jobs/BaseExportJob.cpp:86
 msgid "Only local files are supported\n"
 "Path: {1}"
-msgstr ""
+msgstr "Yalnızca yerel dosyalar desteklenir\n"
+"Yol: {1}"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:11
 msgid "Open Image"
@@ -763,7 +769,7 @@ msgstr "Log Dosyası Aç"
 
 #: ../src/control/XournalMain.cpp:116
 msgid "Open Logfile directory"
-msgstr ""
+msgstr "Günlük dosyası dizinini aç"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:11
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:318
@@ -786,15 +792,15 @@ msgstr "Pdf Olarak Dışa Aktar"
 
 #: ../src/gui/MainWindow.cpp:628
 msgid "PDF Page {1}"
-msgstr ""
+msgstr "PDF Sayfası {1}"
 
 #: ../src/view/PdfView.cpp:32
 msgid "PDF background missing"
-msgstr ""
+msgstr "PDF arka planı eksik"
 
 #: ../src/control/XournalMain.cpp:254
 msgid "PDF file successfully created"
-msgstr ""
+msgstr "PDF dosyası başarıyla oluşturuldu"
 
 #: ../src/control/jobs/CustomExportJob.cpp:20
 #: ../src/control/jobs/PdfExportJob.cpp:13
@@ -804,19 +810,19 @@ msgstr "PDF dosyaları"
 
 #: ../src/control/XournalMain.cpp:270
 msgid "PDF output filename"
-msgstr ""
+msgstr "PDF çıktısı dosya adı"
 
 #: ../src/control/jobs/CustomExportJob.cpp:21
 msgid "PDF with plain background"
-msgstr ""
+msgstr "Düz arka planlı PDF"
 
 #: ../src/control/jobs/CustomExportJob.cpp:22
 msgid "PNG graphics"
-msgstr ""
+msgstr "PNG grafikleri"
 
 #: ../src/control/jobs/CustomExportJob.cpp:23
 msgid "PNG with transparent background"
-msgstr ""
+msgstr "Saydam arka planlı PNG"
 
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:42
 msgid "Page"
@@ -836,7 +842,7 @@ msgstr "Sayfa silindi"
 
 #: ../src/undo/InsertDeletePageUndoAction.cpp:94
 msgid "Page inserted"
-msgstr ""
+msgstr "Sayfa eklendi"
 
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:31
 msgid "Page number"
@@ -844,7 +850,7 @@ msgstr "Sayfa numarası"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:348
 msgid "Paired pages"
-msgstr ""
+msgstr "Eşlenen sayfalar"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:332
 #: ../src/undo/AddUndoAction.cpp:77
@@ -950,7 +956,7 @@ msgstr "SVG grafikleri"
 
 #: ../src/control/jobs/CustomExportJob.cpp:25
 msgid "SVG with transparent background"
-msgstr "Şeffaf arka planlı SVG"
+msgstr "Saydam arka planlı SVG"
 
 #: ../src/control/Control.cpp:2442 ../src/control/jobs/SaveJob.cpp:13
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:319
@@ -2129,15 +2135,15 @@ msgstr ""
 
 #: ../ui/images.glade:73
 msgid "Load file"
-msgstr ""
+msgstr "Dosya yükle"
 
 #: ../ui/toolbarManageDialog.glade:9
 msgid "Manage Toolbar"
-msgstr ""
+msgstr "Araç Çubuklarını Yönet"
 
 #: ../ui/settings.glade:3337
 msgid "Max Length (mm)"
-msgstr ""
+msgstr "En fazla Uzunluk (mm)"
 
 #: ../ui/settings.glade:827
 msgid "Merge button events with stylus tip events\n"
@@ -2146,15 +2152,15 @@ msgstr ""
 
 #: ../ui/settings.glade:961
 msgid "Middle Mouse Button"
-msgstr ""
+msgstr "Orta Fare Düğmesi"
 
 #: ../ui/settings.glade:1048 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
-msgstr ""
+msgstr "Fare"
 
 #: ../ui/settings.glade:1017
 msgid "Mouse Buttons"
-msgstr ""
+msgstr "Fare Düğmeleri"
 
 #: ../ui/settingsDeviceClassConfig.glade:43
 msgid "Mouse+Keyboard Combo"
@@ -2355,11 +2361,11 @@ msgstr "Ayarlar:"
 
 #: ../ui/settings.glade:3407
 msgid "Show Floating Toolbox"
-msgstr ""
+msgstr "Kayan Araç Kutusunu Göster"
 
 #: ../ui/settings.glade:1943
 msgid "Show Menubar on Startup"
-msgstr ""
+msgstr "Menü Çubuğunu Başlangıçta Göster"
 
 #: ../ui/main.glade:496
 msgid "Show sidebar"
@@ -2367,7 +2373,7 @@ msgstr "Kenar çubuğu göster"
 
 #: ../ui/settings.glade:2211
 msgid "Show sidebar on the right side"
-msgstr ""
+msgstr "Kenar çubuğunu sağ tarafta göster"
 
 #: ../ui/settings.glade:2227
 msgid "Show vertical scrollbar on the left side"
@@ -2415,19 +2421,19 @@ msgstr ""
 
 #: ../ui/main.glade:840
 msgid "T_oolbars"
-msgstr ""
+msgstr "Araç Ç_ubukları"
 
 #: ../ui/pagesize.glade:101
 msgid "Template:"
-msgstr ""
+msgstr "Şablon:"
 
 #: ../ui/settings.glade:1660 ../ui/settings.glade:1673
 msgid "Test"
-msgstr ""
+msgstr "Test"
 
 #: ../ui/main.glade:1820
 msgid "Text Font..."
-msgstr ""
+msgstr "Metin Yazı Tipi..."
 
 #: ../ui/settings.glade:2763
 msgid "The unit of the ruler is cm"
@@ -2443,16 +2449,16 @@ msgstr ""
 
 #: ../ui/settings.glade:1507
 msgid "Timeout"
-msgstr ""
+msgstr "Zaman aşımı"
 
 #: ../ui/settings.glade:1420 ../ui/settings.glade:1889
 #: ../ui/settingsDeviceClassConfig.glade:46
 msgid "Touchscreen"
-msgstr ""
+msgstr "Dokunmatik ekran"
 
 #: ../ui/fillTransparency.glade:14
 msgid "Transparency settings"
-msgstr ""
+msgstr "Saydamlık ayarları"
 
 #: ../ui/settings.glade:3377
 msgid "Try to select object first."
@@ -2468,111 +2474,111 @@ msgstr ""
 
 #: ../ui/about.glade:101
 msgid "Version"
-msgstr ""
+msgstr "Sürüm"
 
 #: ../ui/pluginEntry.glade:94
 msgid "Version: "
-msgstr ""
+msgstr "Sürüm: "
 
 #: ../ui/settings.glade:2527
 msgid "View"
-msgstr ""
+msgstr "Görüntüle"
 
 #: ../ui/settingsButtonConfig.glade:131
 msgid "Whiteout"
-msgstr ""
+msgstr "Olmadan"
 
 #: ../ui/pagesize.glade:189
 msgid "Width:"
-msgstr ""
+msgstr "Genişlik:"
 
 #: ../ui/about.glade:232
 msgid "With help from the community"
-msgstr ""
+msgstr "Topluluk yardımı ile"
 
 #: ../ui/settings.glade:1858
 msgid "Workaround"
-msgstr ""
+msgstr "Geçici çözüm"
 
 #: ../ui/settings.glade:112
 msgid "Xournal++ Preferences"
-msgstr ""
+msgstr "Xournal++ Tercihleri"
 
 #: ../ui/settings.glade:2817
 msgid "Zoom"
-msgstr ""
+msgstr "Yakınlaştırma"
 
 #: ../ui/settings.glade:1789
 msgid "Zoom Gestures"
-msgstr ""
+msgstr "Yakınlaştırma Hareketleri"
 
 #: ../ui/settings.glade:2661
 msgid "Zoom Speed"
-msgstr ""
+msgstr "Yakınlaştırma Hızı"
 
 #: ../ui/main.glade:633
 msgid "_1 Column"
-msgstr ""
+msgstr "_1 Sütun"
 
 #: ../ui/main.glade:738
 msgid "_1 Row"
-msgstr ""
+msgstr "_1 Satır"
 
 #: ../ui/main.glade:644
 msgid "_2 Columns"
-msgstr ""
+msgstr "_2 Sütun"
 
 #: ../ui/main.glade:749
 msgid "_2 Rows"
-msgstr ""
+msgstr "_2 Satır"
 
 #: ../ui/main.glade:655
 msgid "_3 Columns"
-msgstr ""
+msgstr "_3 Sütun"
 
 #: ../ui/main.glade:760
 msgid "_3 Rows"
-msgstr ""
+msgstr "_3 Satır"
 
 #: ../ui/main.glade:666
 msgid "_4 Columns"
-msgstr ""
+msgstr "_4 Sütun"
 
 #: ../ui/main.glade:771
 msgid "_4 Rows"
-msgstr ""
+msgstr "_4 Satır"
 
 #: ../ui/main.glade:677
 msgid "_5 Columns"
-msgstr ""
+msgstr "_5 Sütun"
 
 #: ../ui/main.glade:782
 msgid "_5 Rows"
-msgstr ""
+msgstr "_5 Satır"
 
 #: ../ui/main.glade:688
 msgid "_6 Columns"
-msgstr ""
+msgstr "_6 Sütun"
 
 #: ../ui/main.glade:793
 msgid "_6 Rows"
-msgstr ""
+msgstr "_6 Satır"
 
 #: ../ui/main.glade:699
 msgid "_7 Columns"
-msgstr ""
+msgstr "_7 Sütun"
 
 #: ../ui/main.glade:804
 msgid "_7 Rows"
-msgstr ""
+msgstr "_7 Satır"
 
 #: ../ui/main.glade:710
 msgid "_8 Columns"
-msgstr ""
+msgstr "_8 Sütun"
 
 #: ../ui/main.glade:815
 msgid "_8 Rows"
-msgstr ""
+msgstr "_8 Satır"
 
 #: ../ui/main.glade:199
 msgid "_Annotate PDF"
@@ -2600,67 +2606,67 @@ msgstr ""
 
 #: ../ui/main.glade:295
 msgid "_Edit"
-msgstr ""
+msgstr "Düz_enle"
 
 #: ../ui/main.glade:1245
 msgid "_Eraser"
-msgstr ""
+msgstr "_Silgi"
 
 #: ../ui/main.glade:240
 msgid "_Export as PDF"
-msgstr ""
+msgstr "PDF olarak dışa _aktar"
 
 #: ../ui/main.glade:155
 msgid "_File"
-msgstr ""
+msgstr "_Dosya"
 
 #: ../ui/main.glade:967
 msgid "_First Page"
-msgstr ""
+msgstr "İl_k Sayfa"
 
 #: ../ui/main.glade:989
 msgid "_Goto Page"
-msgstr ""
+msgstr "Sayfaya _Git"
 
 #: ../ui/main.glade:1921
 msgid "_Help"
-msgstr ""
+msgstr "_Yardım"
 
 #: ../ui/main.glade:1257
 msgid "_Highlighter"
-msgstr ""
+msgstr "_Vurgulayıcı"
 
 #: ../ui/main.glade:524
 msgid "_Horizontal"
-msgstr ""
+msgstr "_Yatay"
 
 #: ../ui/main.glade:1281
 msgid "_Image"
-msgstr ""
+msgstr "Res_im"
 
 #: ../ui/main.glade:1092
 msgid "_Journal"
-msgstr ""
+msgstr "_Günlük"
 
 #: ../ui/main.glade:1011
 msgid "_Last Page"
-msgstr ""
+msgstr "_Son Sayfa"
 
 #: ../ui/main.glade:553
 msgid "_Left To Right"
-msgstr ""
+msgstr "So_ldan Sağa"
 
 #: ../ui/main.glade:858
 msgid "_Manage"
-msgstr ""
+msgstr "_Yönet"
 
 #: ../ui/main.glade:956
 msgid "_Navigation"
-msgstr ""
+msgstr "Gezi_nme"
 
 #: ../ui/main.glade:1039
 msgid "_Next Layer"
-msgstr ""
+msgstr "So_nraki Katman"
 
 #: ../ui/main.glade:1000
 msgid "_Next Page"
