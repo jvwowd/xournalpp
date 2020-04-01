@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-28 16:06\n"
+"PO-Revision-Date: 2020-04-01 08:22\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -85,7 +85,7 @@ msgstr "No se pudo procesar el atributo «{1}» como «double»; el valor es «{
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:97
 msgid "Attribute \"{1}\" could not be parsed as double, the value is nullptr"
-msgstr "El atributo \"{1}\" no se pudo analizar como double, el valor es nullptr"
+msgstr "No se pudo procesar el atributo «{1}» como «double»; el valor es «nullptr»"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:121
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:140
@@ -2209,7 +2209,7 @@ msgstr "Botones del ratón"
 
 #: ../ui/settingsDeviceClassConfig.glade:43
 msgid "Mouse+Keyboard Combo"
-msgstr "Combinación Teclado+Ratón"
+msgstr "Combinación teclado + ratón"
 
 #: ../ui/main.glade:2562
 msgid "Move Down"
