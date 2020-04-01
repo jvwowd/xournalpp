@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-01 08:29\n"
+"PO-Revision-Date: 2020-04-01 08:43\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1060,12 +1060,14 @@ msgstr "Yalnızca kullanılmayan sayfaları göster ({1} kullanılmayan sayfa)"
 #: ../src/control/XournalMain.cpp:338
 msgid "Sorry, Xournal++ can only open one file at once.\n"
 "Others are ignored."
-msgstr ""
+msgstr "Üzgünüz, Xournal++ bir kerede yalnızca bir dosyayı açabilir.\n"
+"Diğerleri yok sayılır."
 
 #: ../src/control/XournalMain.cpp:350
 msgid "Sorry, Xournal++ cannot open remote files at the moment.\n"
 "You have to copy the file to a local directory."
-msgstr ""
+msgstr "Üzgünüz, Xournal++ şu anda uzak dosyaları açamıyor.\n"
+"Dosyayı yerel bir dizine kopyalamanız gerekir."
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:22
 msgid "Staves"
@@ -1083,7 +1085,7 @@ msgstr "Kontur tanıyıcı"
 
 #: ../src/util/CrashHandler.cpp:41
 msgid "Successfully saved document to \"{1}\""
-msgstr ""
+msgstr "Belge \"{1}\" klasörüne başarıyla kaydedildi"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:93
 msgid "Supported files"
@@ -1097,23 +1099,23 @@ msgstr "Metin"
 #: ../src/gui/SearchBar.cpp:67
 #, c-format
 msgid "Text %i times found on this page"
-msgstr ""
+msgstr "Bu sayfada %i kez metin bulundu"
 
 #: ../src/undo/TextUndoAction.cpp:29
 msgid "Text changes"
-msgstr ""
+msgstr "Metin değişiklikleri"
 
 #: ../src/gui/SearchBar.cpp:65
 msgid "Text found on this page"
-msgstr ""
+msgstr "Bu sayfada metin bulundu"
 
 #: ../src/gui/SearchBar.cpp:123 ../src/gui/SearchBar.cpp:167
 msgid "Text found once on page {1}"
-msgstr ""
+msgstr "Sayfa {1} üzerinde bir kez metin bulundu"
 
 #: ../src/gui/SearchBar.cpp:124 ../src/gui/SearchBar.cpp:168
 msgid "Text found {1} times on page {2}"
-msgstr ""
+msgstr "Sayfa {1} üzerinde {2} kez metin bulundu"
 
 #: ../src/gui/SearchBar.cpp:72
 msgid "Text not found"
@@ -1121,47 +1123,47 @@ msgstr "Metin bulunumadı"
 
 #: ../src/gui/SearchBar.cpp:134 ../src/gui/SearchBar.cpp:178
 msgid "Text not found, searched on all pages"
-msgstr ""
+msgstr "Metin bulunamadı, tüm sayfalarda arandı"
 
 #: ../src/control/Control.cpp:1058
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
-msgstr ""
+msgstr "\"{1}\" Araç Çubuğu yapılandırması önceden tanımlandı, düzenlemek için bir kopya oluşturur musunuz?"
 
 #: ../src/control/Control.cpp:1993
 msgid "The attached background PDF could not be found."
-msgstr ""
+msgstr "Ekli arka plan PDF'si bulunamadı."
 
 #: ../src/control/Control.cpp:1994
 msgid "The background PDF could not be found."
-msgstr ""
+msgstr "Arka plan PDF'si bulunamadı."
 
 #: ../src/control/xojfile/LoadHandler.cpp:115
 msgid "The file is no valid .xopp file (Mimetype missing): \"{1}\""
-msgstr ""
+msgstr "Dosya geçerli bir .xopp dosyası değil (Mime türü eksik): \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:122
 msgid "The file is no valid .xopp file (Mimetype wrong): \"{1}\""
-msgstr ""
+msgstr "Dosya geçerli bir .xopp dosyası değil (Mime türü yanlış): \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:130
 msgid "The file is no valid .xopp file (Version missing): \"{1}\""
-msgstr ""
+msgstr "Dosya geçerli bir .xopp dosyası değil (Sürüm eksik): \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:143
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
-msgstr ""
+msgstr "Dosya geçerli bir .xopp dosyası değil (Sürüm dizesi bozuk): \"{1}\""
 
 #: ../src/control/LatexController.cpp:307
 msgid "The formula is empty when rendered or invalid."
-msgstr ""
+msgstr "Formül, oluşturulduğunda veya geçersiz olduğunda boştur."
 
 #: ../src/control/XournalMain.cpp:109
 msgid "The most recent log file name: {1}"
-msgstr ""
+msgstr "En son günlük dosyası adı: {1}"
 
 #: ../src/control/XournalMain.cpp:102
 msgid "There are errorlogfiles from Xournal++. Please send a Bugreport, so the bug may be fixed."
-msgstr ""
+msgstr "Xournal++'dan hata günlüğü dosyaları var. Lütfen bir Hata Raporu gönderin, böylece hata düzeltilebilir."
 
 #: ../src/control/XournalMain.cpp:101
 msgid "There is an errorlogfile from Xournal++. Please send a Bugreport, so the bug may be fixed."
