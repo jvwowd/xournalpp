@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-02 13:08\n"
+"PO-Revision-Date: 2020-04-02 13:18\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1929,22 +1929,25 @@ msgstr "Ekran DPI Kalibrasyonu"
 
 #: ../ui/settings.glade:3271
 msgid "Do not draw for inputs of short time and length unless it comes in short succession. Instead, show floating toolbox."
-msgstr ""
+msgstr "Kısa süre ve uzunluktaki girişler için art arda gelmedikçe çizim yapma. Bunun yerine, kayan araç kutusunu göster."
 
 #: ../ui/settings.glade:648 ../ui/settings.glade:815 ../ui/settings.glade:3184
 msgid "Drag LEFT from start point acts like shift key is being held.\n"
 "Drag UP acts as if Control key is being held.\n\n"
 "Determination Radius: Radius at which modifiers will lock in until finished drawing.\n\n"
 "<i>Useful for operating without keyboard.</i>"
-msgstr ""
+msgstr "Başlangıç noktasından SOLA sürükleme, üst karakter tuşu basılıymış gibi davranır.\n"
+"YUKARI sürükleme, Kontrol tuşu basılıymış gibi davranır.\n\n"
+"Belirleme Yarıçapı: Değiştiricilerin bitmiş çizime kadar kilitleneceği yarıçap.\n\n"
+"<i>Klavyesiz çalışmak için kullanışlıdır.</i>"
 
 #: ../ui/toolbarCustomizeDialog.glade:57
 msgid "Drag and drop Components fom here to the toolbars and back."
-msgstr ""
+msgstr "Bileşenleri buradan araç çubuklarına sürükleyip bırakın."
 
 #: ../ui/main.glade:1364
 msgid "Draw _Line"
-msgstr ""
+msgstr "Çi_zgi Çiz"
 
 #: ../ui/settings.glade:3462
 msgid "Drawing Area"
@@ -1952,7 +1955,7 @@ msgstr "Çizim Alanı"
 
 #: ../ui/settings.glade:3234
 msgid "Drawing Tools - Set Modifiers by Draw Direction (Experimental)"
-msgstr ""
+msgstr "Çizim Araçları - Değiştiricileri Çizim Yönüne Göre Ayarla (Deneysel)"
 
 #: ../ui/main.glade:2540
 msgid "Duplicate"
@@ -1968,15 +1971,15 @@ msgstr "Etkinleştir"
 
 #: ../ui/settings.glade:3179
 msgid "Enable  with determination radius of "
-msgstr ""
+msgstr "Belirleme yarıçapıyla etkinleştir "
 
 #: ../ui/settings.glade:544
 msgid "Enable Autoloading of Journals"
-msgstr ""
+msgstr "Günlüklerin Otomatik Yüklenmesini Etkinleştir"
 
 #: ../ui/settings.glade:242
 msgid "Enable Autosaving"
-msgstr ""
+msgstr "Otomatik Kaydetmeyi Etkinleştir"
 
 #: ../ui/settings.glade:1836
 msgid "Enable GTK Touch / Scrolling workaround  (requires restart)"
