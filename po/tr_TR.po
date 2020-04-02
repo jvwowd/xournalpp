@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-02 13:18\n"
+"PO-Revision-Date: 2020-04-02 13:24\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1983,11 +1983,11 @@ msgstr "Otomatik Kaydetmeyi Etkinleştir"
 
 #: ../ui/settings.glade:1836
 msgid "Enable GTK Touch / Scrolling workaround  (requires restart)"
-msgstr ""
+msgstr "GTK Dokunma / Kaydırma geçici çözümünü etkinleştir (yeniden başlatma gerekir)"
 
 #: ../ui/settings.glade:1114
 msgid "Enable Pressure Sensitivity"
-msgstr ""
+msgstr "Basınç Hassasiyetini Etkinleştir"
 
 #: ../ui/settings.glade:3266
 msgid "Enable Tap action"
