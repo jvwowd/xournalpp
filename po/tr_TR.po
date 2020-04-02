@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-02 13:24\n"
+"PO-Revision-Date: 2020-04-02 13:47\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1995,23 +1995,23 @@ msgstr "Dokunma eylemini etkinleştir"
 
 #: ../ui/settings.glade:796
 msgid "Enable drawing outside of window <i>(Drawing will not stop at the border of the window)</i>"
-msgstr ""
+msgstr "Pencerenin dışında çizimi etkinleştir <i>(Çizim pencerenin sınırında durmaz)</i>"
 
 #: ../ui/settings.glade:1466
 msgid "Enable internal Hand Recognition"
-msgstr ""
+msgstr "Dahili El Tanıma'yı etkinleştir"
 
 #: ../ui/settings.glade:643
 msgid "Enable new input system (Requires restart)"
-msgstr ""
+msgstr "Yeni giriş sistemini etkinleştir (Yeniden başlatma gerektirir)"
 
 #: ../ui/settings.glade:1767
 msgid "Enable zoom gestures (requires restart)"
-msgstr ""
+msgstr "Yakınlaştırma hareketlerini etkinleştir (yeniden başlatma gerekir)"
 
 #: ../ui/texdialog.glade:72
 msgid "Enter / edit LaTeX Text"
-msgstr ""
+msgstr "LaTeX Metnini girin / düzenleyin"
 
 #: ../ui/main.glade:1615
 msgid "Eraser Optio_ns"
@@ -2043,15 +2043,15 @@ msgstr "Dolgu saydamlığı"
 
 #: ../ui/main.glade:2334
 msgid "Find next occurrence of the search string"
-msgstr ""
+msgstr "Arama dizesinin bir sonraki tekrarlamasını bul"
 
 #: ../ui/main.glade:2312
 msgid "Find previous occurrence of the search string"
-msgstr ""
+msgstr "Arama dizesinin bir önceki tekrarlamasını bul"
 
 #: ../ui/settings.glade:3026
 msgid "First Page Offset "
-msgstr ""
+msgstr "İlk Sayfa Ofseti "
 
 #: ../ui/main.glade:485 ../ui/settings.glade:2395
 msgid "Fullscreen"
@@ -2644,7 +2644,7 @@ msgstr ""
 
 #: ../ui/main.glade:1144
 msgid "_Delete Page"
-msgstr ""
+msgstr "Sayfayı _Sil"
 
 #: ../ui/main.glade:295
 msgid "_Edit"
@@ -2712,124 +2712,124 @@ msgstr "So_nraki Katman"
 
 #: ../ui/main.glade:1000
 msgid "_Next Page"
-msgstr ""
+msgstr "So_nraki Sayfa"
 
 #: ../ui/main.glade:465
 msgid "_Pair Pages"
-msgstr ""
+msgstr "Sayfaları _Eşle"
 
 #: ../ui/main.glade:1233
 msgid "_Pen"
-msgstr ""
+msgstr "_Kalem"
 
 #: ../ui/main.glade:1896
 msgid "_Plugin"
-msgstr ""
+msgstr "E_klenti"
 
 #: ../ui/main.glade:475
 msgid "_Presentation Mode"
-msgstr ""
+msgstr "_Sunum Modu"
 
 #: ../ui/main.glade:1028
 msgid "_Previous Layer"
-msgstr ""
+msgstr "_Önceki Katman"
 
 #: ../ui/main.glade:978
 msgid "_Previous Page"
-msgstr ""
+msgstr "_Önceki Sayfa"
 
 #: ../ui/main.glade:564
 msgid "_Right To Left"
-msgstr ""
+msgstr "_Sağdan Sola"
 
 #: ../ui/main.glade:1309
 msgid "_Shape Recognizer"
-msgstr ""
+msgstr "_Şekil Tanıyıcı"
 
 #: ../ui/main.glade:1269
 msgid "_Text"
-msgstr ""
+msgstr "_Metin"
 
 #: ../ui/main.glade:1222
 msgid "_Tools"
-msgstr ""
+msgstr "_Araçlar"
 
 #: ../ui/main.glade:1050
 msgid "_Top Layer"
-msgstr ""
+msgstr "_Üst Katman"
 
 #: ../ui/main.glade:582
 msgid "_Top to Bottom"
-msgstr ""
+msgstr "_Üstten Alta"
 
 #: ../ui/main.glade:535
 msgid "_Vertical"
-msgstr ""
+msgstr "_Dikey"
 
 #: ../ui/main.glade:1427
 msgid "_Vertical Space"
-msgstr ""
+msgstr "_Dikey Boşluk"
 
 #: ../ui/main.glade:454
 msgid "_View"
-msgstr ""
+msgstr "_Görünüm"
 
 #: ../ui/main.glade:1709
 msgid "_delete strokes"
-msgstr ""
+msgstr "_konturları sil"
 
 #: ../ui/main.glade:1491 ../ui/main.glade:1637 ../ui/main.glade:1746
 msgid "_fine"
-msgstr ""
+msgstr "_iyi"
 
 #: ../ui/main.glade:1502 ../ui/main.glade:1648 ../ui/main.glade:1757
 msgid "_medium"
-msgstr ""
+msgstr "_orta"
 
 #: ../ui/main.glade:1687
 msgid "_standard"
-msgstr ""
+msgstr "_standart"
 
 #: ../ui/main.glade:1513 ../ui/main.glade:1659 ../ui/main.glade:1768
 msgid "_thick"
-msgstr ""
+msgstr "_kalın"
 
 #: ../ui/main.glade:1480 ../ui/main.glade:1626 ../ui/main.glade:1735
 msgid "_very fine"
-msgstr ""
+msgstr "_çok iyi"
 
 #: ../ui/main.glade:1698
 msgid "_whiteout"
-msgstr ""
+msgstr "_olmadan"
 
 #: ../ui/pageTemplate.glade:158
 msgid "change"
-msgstr ""
+msgstr "değiştir"
 
 #: ../ui/exportSettings.glade:223
 msgid "dpi"
-msgstr ""
+msgstr "dpi"
 
 #: ../ui/pluginEntry.glade:130
 msgid "enabled,"
-msgstr ""
+msgstr "etkin,"
 
 #: ../ui/settings.glade:266
 msgid "every"
-msgstr ""
+msgstr "her"
 
 #: ../ui/pageTemplate.glade:51
 msgid "load from file"
-msgstr ""
+msgstr "dosyadan yükle"
 
 #: ../ui/settings.glade:293
 msgid "minutes"
-msgstr ""
+msgstr "dakika"
 
 #: ../ui/settings.glade:2960 ../ui/settings.glade:2971
 #: ../ui/settings.glade:3219
 msgid "pixels"
-msgstr ""
+msgstr "pikseller"
 
 #: ../ui/settings.glade:1551
 msgid "s <i>(after which the touchscreen will be reactivated again)</i>"
