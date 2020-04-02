@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-02 13:01\n"
+"PO-Revision-Date: 2020-04-02 13:08\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1763,11 +1763,11 @@ msgstr "Araç Dokunma İşlemi"
 
 #: ../ui/settings.glade:2921
 msgid "Add additional horizontal space of"
-msgstr "için ek yatay alan ekle"
+msgstr "Ek yatay alan ekle"
 
 #: ../ui/settings.glade:2899
 msgid "Add additional vertical space of"
-msgstr ""
+msgstr "Ek dikey alan ekle"
 
 #: ../ui/exportSettings.glade:142
 msgid "All pages"
@@ -1776,7 +1776,8 @@ msgstr "Tüm sayfalar"
 #: ../ui/settings.glade:3396
 msgid "All three conditions must be met before stroke is ignored.\n"
 "It must be short in time and length and we can't have ignored another stroke recently."
-msgstr ""
+msgstr "Vuruş yok sayılmadan önce her üç koşul da yerine getirilmelidir.\n"
+"Zaman ve uzunluk açısından kısa olmalı ve son zamanlarda başka bir vuruşu görmezden gelemeyiz."
 
 #: ../ui/settings.glade:3830
 msgid "Audio Devices"
@@ -1800,7 +1801,7 @@ msgstr "Otomatik algılama"
 
 #: ../ui/settings.glade:566
 msgid "Autoloading Journals"
-msgstr ""
+msgstr "Otomatik Yükleme Günlükleri"
 
 #: ../ui/settings.glade:323
 msgid "Autosaving"
@@ -1812,11 +1813,11 @@ msgstr "Kullanılabilir Yer Tutucuları"
 
 #: ../ui/settings.glade:2026
 msgid "Background color between pages"
-msgstr ""
+msgstr "Sayfalar arasındaki arka plan rengi"
 
 #: ../ui/settings.glade:2160
 msgid "Big cursor for pen"
-msgstr ""
+msgstr "Kalem için büyük imleç"
 
 #: ../ui/settings.glade:2015
 msgid "Border color"
@@ -1824,11 +1825,11 @@ msgstr "Kenarlık rengi"
 
 #: ../ui/settings.glade:2000
 msgid "Border color for current page and other selections"
-msgstr ""
+msgstr "Geçerli sayfa ve diğer seçimler için kenarlık rengi"
 
 #: ../ui/about.glade:127
 msgid "Built on"
-msgstr ""
+msgstr "Üzerine inşa"
 
 #: ../ui/settings.glade:1208
 msgid "Button 1"
@@ -1848,11 +1849,11 @@ msgstr "Sayfa Şablonlarını Yapılandır"
 
 #: ../ui/pageTemplate.glade:185
 msgid "Copy last page settings"
-msgstr ""
+msgstr "Son sayfa ayarlarını kopyala"
 
 #: ../ui/pageTemplate.glade:296
 msgid "Copy last page size"
-msgstr ""
+msgstr "Son sayfa boyutunu kopyala"
 
 #: ../ui/exportSettings.glade:158
 msgid "Current page"
@@ -1864,11 +1865,11 @@ msgstr "İmleç"
 
 #: ../ui/settings.glade:1699
 msgid "Custom Commands (for Method \"Custom\")"
-msgstr ""
+msgstr "Özel Komutlar (\"Özel\" Yöntemi için)"
 
 #: ../ui/settings.glade:2074
 msgid "Dark Theme (requires restart)"
-msgstr ""
+msgstr "Koyu Tema (yeniden başlatma gerekir)"
 
 #: ../ui/settings.glade:498
 msgid "Default Save Name"
@@ -1876,7 +1877,7 @@ msgstr "Varsayılan Dosya Adı"
 
 #: ../ui/settings.glade:3955
 msgid "Default Seek Time (in seconds)"
-msgstr ""
+msgstr "Varsayılan Arama Süresi (saniye olarak)"
 
 #: ../ui/settings.glade:386
 msgid "Default name: "
@@ -1892,27 +1893,27 @@ msgstr "Katmanı Sil"
 
 #: ../ui/settingsButtonConfig.glade:132
 msgid "Delete stroke"
-msgstr ""
+msgstr "Konturu sil"
 
 #: ../ui/main.glade:2136
 msgid "Delete this page"
-msgstr ""
+msgstr "Bu sayfayı sil"
 
 #: ../ui/settingsButtonConfig.glade:25
 msgid "Device"
-msgstr ""
+msgstr "Aygıt"
 
 #: ../ui/settings.glade:1627
 msgid "Disable"
-msgstr ""
+msgstr "Devre dışı bırak"
 
 #: ../ui/settingsButtonConfig.glade:50
 msgid "Disable drawing for this device"
-msgstr ""
+msgstr "Buaygıt için çizimi devre dışı bırak"
 
 #: ../ui/settings.glade:2308
 msgid "Disable scrollbar fade out"
-msgstr ""
+msgstr "Kaydırma çubuğu solmasını devre dışı bırak"
 
 #: ../ui/settingsDeviceClassConfig.glade:41
 msgid "Disabled"
