@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-02 11:09\n"
+"PO-Revision-Date: 2020-04-02 13:01\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1733,24 +1733,25 @@ msgstr "<i>Yeni bir belge kaydederseniz bu ad önerilecektir.</i>"
 
 #: ../ui/settings.glade:2692
 msgid "<i>To make sure on 100% zoom the size of elements is natural. (requires restart)</i>"
-msgstr ""
+msgstr "<i>100% yakınlaştırmada öğelerin boyutunun doğal olduğundan emin olmak için. (yeniden başlatma gerekir)</i>"
 
 #: ../ui/settings.glade:1962
 msgid "<i>Toggle visibility of menubar with F10</i>"
-msgstr ""
+msgstr "<i>Menü çubuğunun görünürlüğünü F10 ile değiştirin</i>"
 
 #: ../ui/settings.glade:1755
 msgid "<i>Use pinch gestures to zoom journal pages.</i>"
-msgstr ""
+msgstr "<i>Günlük sayfalarını yakınlaştırmak için sıkıştırma hareketlerini kullanın.</i>"
 
 #: ../ui/settings.glade:1384
 msgid "<i>You can configure devices, not identified by GTK as touchscreen, to behave as if they were one.</i>"
-msgstr ""
+msgstr "<i>GTK tarafından dokunmatik ekran olarak tanımlanmayan aygıtları, sanki onlardan biriymiş gibi davranacak şekilde yapılandırabilirsiniz.</i>"
 
 #: ../ui/about.glade:73
 msgid "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
 "<i>The next generation</i>"
-msgstr ""
+msgstr "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
+"<i>Bir sonraki nesil</i>"
 
 #: ../ui/about.glade:9
 msgid "About Xournal++"
@@ -1762,7 +1763,7 @@ msgstr "Araç Dokunma İşlemi"
 
 #: ../ui/settings.glade:2921
 msgid "Add additional horizontal space of"
-msgstr ""
+msgstr "için ek yatay alan ekle"
 
 #: ../ui/settings.glade:2899
 msgid "Add additional vertical space of"
