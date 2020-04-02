@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-28 04:07\n"
+"PO-Revision-Date: 2020-04-02 09:53\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -81,25 +81,25 @@ msgstr "Επισύναψη αρχείου στο ημερολόγιο"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:104
 msgid "Attribute \"{1}\" could not be parsed as double, the value is \"{2}\""
-msgstr ""
+msgstr "Το χαρακτηριστικό \"{1}\" δεν ήταν δυνατό να αναλυθεί ως αριθμός κυμαινόμενου σημείου, η τιμή είναι \"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:97
 msgid "Attribute \"{1}\" could not be parsed as double, the value is nullptr"
-msgstr ""
+msgstr "Το χαρακτηριστικό \"{1}\" δεν ήταν δυνατό να αναλυθεί ως αριθμός κυμαινόμενου σημείου, η τιμή είναι nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:121
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:140
 msgid "Attribute \"{1}\" could not be parsed as int, the value is \"{2}\""
-msgstr ""
+msgstr "Το χαρακτηριστικό \"{1}\" δεν ήταν δυνατό να αναλυθεί ως ακέραιος αριθμός, η τιμή είναι \"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:114
 msgid "Attribute \"{1}\" could not be parsed as int, the value is nullptr"
-msgstr ""
+msgstr "Το χαρακτηριστικό \"{1}\" δεν ήταν δυνατό να αναλυθεί ως ακέραιος αριθμός, η τιμή είναι nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:159
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:179
 msgid "Attribute \"{1}\" could not be parsed as size_t, the value is \"{2}\""
-msgstr ""
+msgstr "Το χαρακτηριστικό \"{1}\" δεν ήταν δυνατό να αναλυθεί size_t, η τιμή είναι \"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:152
 msgid "Attribute \"{1}\" could not be parsed as size_t, the value is nullptr"
