@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-02 10:08\n"
+"PO-Revision-Date: 2020-04-02 10:25\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -201,17 +201,19 @@ msgstr "Δεν ήταν δυνατή η δημιουργία του φακέλο
 
 #: ../src/control/LatexController.cpp:85
 msgid "Could not find kpsewhich in PATH; please install kpsewhich and put it on path."
-msgstr ""
+msgstr "Το kpsewhich δεν βρέθηκε στο PATH; παρακαλώ να εγκαταστήσετε το kpsewhich και να το τοποθετήσετε σε αυτή τη θέση."
 
 #: ../src/control/LatexController.cpp:70
 msgid "Could not find pdflatex in PATH.\n"
 "Please install pdflatex first and make sure it's in the PATH."
-msgstr ""
+msgstr "Το pdflatex δεν βρέθηκε στο PATH\n"
+"Παρακαλώ να εγκαταστήσετε πρώτα το pdflatex και βεβαιωθείτε ότι βρίσκεται στο PATH."
 
 #: ../src/control/LatexController.cpp:89
 msgid "Could not find the LaTeX package 'standalone'.\n"
 "Please install standalone (found in texlive-latex-extra) and make sure it's accessible by your LaTeX installation."
-msgstr ""
+msgstr "Δεν βρέθηκε το πακέτο LaTeX 'standalone'.\n"
+"Παρακαλώ να εγκαταστήσετε το standalone (βρίσκεται στο texlive-latex-extra) και βεβαιωθείτε ότι είναι προσβάσιμο από την LaTeX."
 
 #: ../src/control/LatexController.cpp:386
 msgid "Could not load LaTeX PDF file"
