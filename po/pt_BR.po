@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-28 04:07\n"
+"PO-Revision-Date: 2020-04-03 02:14\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -53,19 +53,19 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:399
 msgid "Add/Edit Tex"
-msgstr ""
+msgstr "Adicionar/Editar TeX"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:35
 msgid "All files"
-msgstr ""
+msgstr "Todos os arquivos"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:197
 msgid "Apply to all pages"
-msgstr ""
+msgstr "Aplicar a todas as páginas"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:188
 msgid "Apply to current page"
-msgstr ""
+msgstr "Aplicar à página atual"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:27
 #: ../src/control/stockdlg/XojOpenDlg.cpp:112
@@ -147,7 +147,7 @@ msgstr ""
 
 #: ../src/undo/ColorUndoAction.cpp:90
 msgid "Change color"
-msgstr ""
+msgstr "Alterar cor"
 
 #: ../src/undo/FontUndoAction.cpp:105
 msgid "Change font"
